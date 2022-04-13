@@ -1,0 +1,62 @@
+---
+layout: post
+title: _I am Malala_
+book_author: Malala Yousafzai and Christina Lamb
+categories: 13-15
+image: i_am_malala.jpg
+---
+
+Malala Yousafzai's 2013 autobiography, _I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban_, reveals the discrimination that women, poor people, and people with dark skin suffer in her community across the generations. Just as her parents do as young people, Malala witnesses the same cultural preference for men, certain classes of people, and people with light skin. The discriminatory attitudes are so pervasive, that even Malala internalizes some of the negative thinking and devalues herself. Malala's story shows how unfair preferences for certain groups of people over others still exist.
+
+# Gender
+
+As children in the 1970s and 1980s, Malala’s parents experience the unequal treatment of boys and girls within their families. Malala’s mother, Toor Pekai, never learns to read or write as a child. Like the other girls in her family, she does not go to school. Malala’s father, Ziauddin, witnesses a similar divide in his family. Malala relates:
+
+> As in most families, the girls stayed at home while the boys went to school...School wasn’t the only thing my aunts missed out on. In the morning when my father was given a bowl of cream with his tea, his sisters were given only tea. If there were eggs, they would only be for the boys…(p. 22)
+
+Both Ziauddin and Toor Pekai’s families withhold education and certain types of food, among other privileges, from the girls.
+
+The bias against girls continues when Malala comes into the world in 1997, a decade before the Taliban terrorizes the Swat Valley. Malala writes about the day she is born: “My mother was worried about telling [my father] he had a daughter not a son...” (p. 44). Traditionally, families host a celebration called a _Woma_, on their new baby’s seventh day of life. However, Malala’s family does not invite people to celebrate. Malala explains, “My parents had not held [a _Woma_] for me because they could not afford the goat and rice needed to feed the guests, and my grandfather would not help them out because I was not a boy” (p. 47). Two years later, Malala’s brother, Khushal, is born. Malala knows, “My mother had been waiting for a son and could not hide her joy when he was born” (p. 15). Malala’s grandfather offers to pay for the celebration of his grandson’s birth. Thus, the preference for boys carries into the lives of Malala and her siblings.
+
+# Class
+
+Like girls, poor children in Malala's environment are vulnerable to contempt. As a young man, Malala’s father desperately wishes to continue his own education, so he won’t  “end up like his brother teaching in a local school” (p. 33). Malala explains why teachers do not want to teach at the mountain village of Sewoor, Pakistan, where her uncle works:
+
+> The people in Sewoor were Gujars, Kohistanis and Mians. We regard Mians as noble or landed people, but Gujars and Kohistanis are what we call hilly people, peasants who look after buffaloes. Their children are usually dirty and they are looked down upon by Pashtuns, even if they are poor themselves. ‘They are dirty, black and stupid,’ people would say. ‘Let them be illiterate.’ All the teachers do is to keep the children quiet with a long stick, as they cannot imagine education will be any use to them. (p. 34)
+
+Gujars and Kohistanis are victims of scorn due to their traditional livelihoods. Even teachers believe the Gujars and Kohistanis do not require education, and are content with the generational poverty of others.
+
+When he has children and a school of his own, Malala’s father provides free education for more than 100 children, but not all members of the community happily accept poor students at the school. Malala explains:
+
+> Some of the richer parents took their children out of the school when they realized they were sharing classrooms with the sons and daughters of people who cleaned their houses or stitched their clothes. They thought it was shameful for their children to mix with those from poor families. (p. 67)
+
+Some wealthy families consider the presence of poor people such an indignity, that they insist on educational segregation.
+
+# Skin Color
+
+Colorism harms both Malala and her father before her. Malala describes her father’s experiences as a boy: “...he was insecure about his looks because at school the teachers always favored the handsome boys for their fair skin. His cousins would stop my father on his way home from school and tease him about being short and dark skinned” (p. 28). Both educators and family members exhibit blatant partiality for light skin, and damage Ziauddin's confidence. Malala writes that Ziauddin:
+
+> ...had been so self-conscious about being dark-skinned that he used to go to the fields to get buffalo milk to spread on his face, thinking it would make him lighter. It was only when he met my mother that he became comfortable in his own skin. Being loved by such a beautiful girl gave him confidence. (p. 15)
+
+Ziauddin’s hard work and upstanding character are not enough to reassure him of his value. Instead, his self-worth improves because a woman with light skin deems him worthy.
+
+Malala absorbs her community’s desire for light skin. She shares, “I wished I had [my mother’s] white-lily skin, fine features and green eyes, but instead had inherited the sallow complexion, wide nose and brown eyes of my father” (p. 15). As a fifteen-year-old, Malala uses cream to whiten her skin. She recalls an exchange with a friend:
+
+
+> Moniba was looking very beautiful, her skin porcelain-pale. ‘What skin cream are you using?’ I ask her. ‘The same one you’re using,’ she replied. I knew that could not be true. ‘No. Look at my dark skin and look at yours!’ (p. 190)
+
+Like her father, Malala disparages her natural skin color, and tries to lighten her complexion. The same narrow definition of beauty that causes Ziauddin to suffer, affects his daughter as well.
+
+Although the title of Malala’s book highlights the injustice of the Taliban, and the struggle of girls, her book reveals widespread discrimination against more than one group of people.
+
+<div class="resp-container" id="video">
+  <iframe class="resp-iframe" title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000001835296"></iframe>
+</div>
+
+<br>
+Adam Ellick's 2009 documentary, "Class Dismissed: Malala's Story," contains scenes of graphic violence, and is not suitable for everyone.
+
+---
+References
+
+Yousafzai, M. & Lamb, C. (2013). _I am Malala: The girl who stood up for education and was shot by the Taliban._ Little, Brown and Company.

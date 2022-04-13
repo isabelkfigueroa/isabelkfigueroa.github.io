@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+        <li id="post-{{ forloop.rindex }}">
+          <div class="img-container">
+            <img class="cover" width="100px" height="150px" src="{{ site.baseurl }}/assets/images/{{ post.image }}"/>
+          </div>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <h3>
+              {{ post.title | escape | markdownify | remove: '<p>' | remove: '</p>'}}
+            </h3>
+            <h4>
+              {{ post.book_author | escape | markdownify | remove: '<p>' | remove: '</p>'}}
+            </h4>
+          </a>
+          {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+  {%- endif -%}
+
+</div
