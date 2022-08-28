@@ -2,7 +2,7 @@
 layout: post
 title: Harriet Jacobs Describes the Many Victims of Slavery
 book_author: Harriet Jacobs
-categories: 13-15
+categories: 16-18
 image: incidents.jpg
 ---
 
