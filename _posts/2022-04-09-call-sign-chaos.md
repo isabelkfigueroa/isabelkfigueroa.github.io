@@ -2,7 +2,7 @@
 layout: post
 title: How Ender Wiggin Exhibits U.S. General Jim Mattis’s Prefered Leadership Qualities
 book_author: Jim Mattis
-categories: 13-15
+categories: 18+
 image: call-sign-chaos.webp
 ---
 
