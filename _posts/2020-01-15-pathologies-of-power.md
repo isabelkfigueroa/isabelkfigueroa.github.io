@@ -4,6 +4,7 @@ title: _Pathologies of Power_
 book_author: Paul Farmer
 categories: 18+
 image: pathologies_of_power.jpg
+published: false
 ---
 ### Paul Farmer’s Mission
 
