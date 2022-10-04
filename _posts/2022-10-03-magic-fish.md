@@ -8,16 +8,16 @@ image: magic-fish.jpg
 
 In his 2020, _The Magic Fish_, author and illustrator [Trung Le
 Nguyen](https://www.trungles.com/) shows how elements of art can communicate
-meaning in a graphic novel. Trung Le Nguyen uses the colors to communicate
+meaning in a graphic novel. Trung Le Nguyen uses colors to communicate
 context, importance, and emotion. He also employs simple shapes to serve as
 symbols which help develop characters throughout the novel. Finally, Trung Le
-Nguyen includes and omits lines in a way that controls the focus of his scenes.
+Nguyen includes and omits lines in a way that dictates the focus of his scenes.
 
 # Color
 
 Trung Le Nguyen uses the colors blue, yellow, and red to indicate fairy tales,
-the past, and present, respectively. The blue fairy tales include three
-different stories, about Alera, Tấm, and Ondine. The yellow past depicts Hiền’s
+the past, and the present, respectively. The blue fairy tales include three
+different stories about Alera, Tấm, and Ondine. The yellow past depicts Hiền’s
 life as a young woman in Vietnam. The red present focuses mainly on Tiến’s life
 with his mother and father, Hiền and Vĩnh, and his two friends, Claire and
 Julian. The color coding allows Trung Le Nguyen to shift quickly between a fairy
@@ -79,7 +79,7 @@ In each context, he also shows the peaches inside the home where one of the
 characters loses one or more family members. The peaches first appear in Hiền’s
 home (p. 5), who later in the novel loses her mother. Peaches also appear inside
 Alera’s home (p. 18-19), whose mother disappears into the sea and never returns
-to Alera. Trung Le Nguyen also depicts peaches in Tấm’s family home, a girl who
+to Alera. Trung Le Nguyen also depicts peaches in the family home of Tấm, a girl who
 loses her mother and father. The peaches connect and highlight the struggles of
 three different families.
 
