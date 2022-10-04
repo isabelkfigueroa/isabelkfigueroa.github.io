@@ -131,4 +131,4 @@ importance, Trung Le Nguyen frees certain relationships of panel lines.
 ---
 References
 
-Nguyen, T.L., (2020). _The magic fish_. Random House Graphic.
+Nguyen, T.L. (2020). _The magic fish_. Random House Graphic.
