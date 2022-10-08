@@ -40,8 +40,8 @@ against a tradition that most people value.
 # Challenge 2: Ask questions and breaks taboos
 
 Another challenge Will faces in his defiance against the Tripods is that
-information is difficult to obtain. When Will asks his cousin Jack what the
-experience of Capping is like, Jack responds: “You know it’s not permitted to
+information is difficult to obtain. When Will asks his cousin Jack to describe the
+Capping experience, Jack responds: “You know it’s not permitted to
 talk about that. But I can promise you that you won’t be hurt” (p. 18). Jack
 refuses to share details about his Capping, and tries to dismiss the topic with
 a simple reassurance. However, Capping does not work on everyone. Those people
