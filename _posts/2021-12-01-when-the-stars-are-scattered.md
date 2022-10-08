@@ -99,12 +99,12 @@ best friend, and the support he receives from his community, he feels grateful
 for what he has.
 
 Omar spends over a decade in the Ifo refugee camp, where he must serve as the
-head of a two person family. Much of what happens in Omar’s life, he cannot
-control. However, Omar’s story shows that even in the most dire situations,
-people always have choices. As he is responsible for his life and his brother’s,
+head of a two person family. As he is responsible for his life and his brother’s,
 Omar’s choices determine the present and future quality of their lives. Omar
 chooses inclusive friends, decides to trust hopeful adults, and fills his mind
-with gratitude in order to establish a good life for himself and Hassan.
+with gratitude in order to establish a good life for himself and Hassan. Much of what happens in Omar’s life, he cannot
+control. However, Omar’s story shows that even in the most dire situations,
+people always have choices. 
 
 ---
 References
