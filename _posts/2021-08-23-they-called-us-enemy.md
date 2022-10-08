@@ -58,7 +58,6 @@ which provides $20,000 for each of the 60,000 surviving internees.
 Watch George Takei explain why the injustice of his internment is relevant
 today, and how plays, novels, television, and other contemporary media can help
 educate the public.
-
 <br>
 <div class="resp-container">
   <iframe
