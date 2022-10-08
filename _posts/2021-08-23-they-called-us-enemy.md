@@ -7,7 +7,7 @@ image: they-called-us-enemy.jpg
 ---
 
 In his graphic memoir, _They Called Us Enemy_ (2019), George Takei relates
-his first hand experience of [internment
+his firsthand experience of [internment
 camps](https://www.archives.gov/education/lessons/japanese-relocation) in the
 United States during the 1940s. The collection of primary sources from the
 [U.S. National Archives and Records Administration](https://www.archives.gov/)
