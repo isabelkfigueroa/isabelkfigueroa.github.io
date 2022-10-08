@@ -34,7 +34,7 @@ rabbi told his congregation that the Nazis have taken the synagogue lists of all
 the Jews. Where they live, what their names are” (p. 35). At a real synagogue in Copenhagen, Rabbi Marcus Melchior
 tells congregants that the planned Nazi raid coincides with the Jewish New
 Year, Rosh Hashanah. He urges Jewish people to act immediately; they all must
-flee or hide in order to escape the Nazis.
+leave or hide in order to escape the Nazis.
 
 # [Danes Help Jewish People Escape](https://encyclopedia.ushmm.org/content/en/photo/danish-fishermen-ferry-jews-to-safety?parent=en%2F11287)
 
@@ -44,7 +44,7 @@ We don’t even know what that means. We only know that it is wrong, and it is
 dangerous, and we must help” (p. 35). Mr. Johansen’s words reflect the feelings
 and actions of real Danes. Once Denmark knows what the Nazis plan to do, Danes
 support the escape of more than 7,000 Jewish people. Danes help many Jewish
-refugees leave Nazi-occupied Denmark by boat to unoccupied Sweden.
+refugees flee Nazi-occupied Denmark by boat to unoccupied Sweden.
 
 To learn more about the unique rescue of Jewish people in Denmark, visit the
 [United States Holocaust Memorial Museum
