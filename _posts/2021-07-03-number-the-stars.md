@@ -32,13 +32,13 @@ resisters and the Jewish community time to act.
 In Lowry's story, Annemarie’s father explains: “This morning, at the synagogue, the
 rabbi told his congregation that the Nazis have taken the synagogue lists of all
 the Jews. Where they live, what their names are” (p. 35). At a real synagogue in Copenhagen, Rabbi Marcus Melchior
-tells congregants that the Nazi raid will coincide with the Jewish New
+tells congregants that the planned Nazi raid coincides with the Jewish New
 Year, Rosh Hashanah. He urges Jewish people to act immediately; they all must
 flee or hide in order to escape the Nazis.
 
 # [Danes Help Jewish People Escape](https://encyclopedia.ushmm.org/content/en/photo/danish-fishermen-ferry-jews-to-safety?parent=en%2F11287)
 
-Mr. Johansen shares with Annemarie what he knows of the Nazi’s deportation plan:
+Mr. Johansen shares with Annemarie what he knows of the Nazi deportation plan:
 “We don’t know where, and we don’t really know why. They call it ‘relocation.’
 We don’t even know what that means. We only know that it is wrong, and it is
 dangerous, and we must help” (p. 35). Mr. Johansen’s words reflect the feelings
