@@ -2,7 +2,7 @@
 layout: post
 title: The Endles Steppe
 book_author: Esther Hautzig
-categories: 13-15
+categories: 10-12
 image: the-endless-steppe.webp
 ---
 
