@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esther's Choice to Thrive: How Esther Rudomin Seeks and Finds Goodness in Other People in order to Stay Positive
+title: Esther's Choice to Thrive\: How Esther Rudomin Seeks and Finds Goodness in Other People in order to Stay Positive
 book_author: Esther Hautzig
 categories: 10-12
 image: the-endless-steppe.webp
