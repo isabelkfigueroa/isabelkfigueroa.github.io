@@ -1,16 +1,14 @@
 ---
 layout: post
-title: The Endles Steppe
+title: Friends During Bad Times
 book_author: Esther Hautzig
 categories: 10-12
 image: the-endless-steppe.webp
 ---
 
-Friends During Bad Times
-
-During the summer of 1941, in Vilna, Poland, Russian soldiers deport Esther
-Rudomin’s family to Rubtsovsk, Siberia. Along with other accused capitalists,
-ten-year-old Esther, her grandmother, mother, and father, ride in cattle cars
+During the summer of 1941, in Vilna, Poland, Russian soldiers deport ten-year-old Esther
+Rudomin and her family to Rubtsovsk, Siberia. Along with other accused capitalists,
+the Rudomins ride in cattle cars
 for about six weeks to their place of exile. In their new world of forced
 poverty, the Rudomin family endures constant hardship. However, in Esther
 Hautzig’s 1968 autobiographical novel, _The Endless Steppe_, the author recounts
@@ -35,9 +33,9 @@ relates:
 > World War II were thousands of miles away and at the market place so was
 > the labor camp close by. (pp. 68-69)
 
-Esther describes the Rubtsovsk townspeople as friendly, honest, and curious.
 Esther loves the questions she receives from the townspeople, and rejoices in
-the engagement in normal conversation. Esther counts the simple interaction with
+the engagement in normal conversation. Esther describes the Rubtsovsk townspeople as friendly, honest, and curious.
+Esther counts the simple interaction with
 the people of Rubtsovsk as a high point after a long period of suffering. She
 uses the marketplace socialization to put the labor camp, and the horrors of
 WWII in general, in the back of her mind for a short time. When the Rudomins
@@ -129,7 +127,7 @@ various forms of art. One teacher specifically inspires Esther:
 > being unworthy of her attention. On the contrary, she taught us as if
 > she had gotten hold of us at the optimum moment for conversion…It was in
 > her classes that I finally mastered the Russian language and was able to
-> read it with great ease and to write it too. (p. 211- 212)
+> read it with great ease and to write it too. (pp. 211- 212)
 
 Esther compares literature to a religion, her teacher Anna Semyonovna to the
 religion’s leader, and the 7th grade students to disciples that Anna Semyonovna
@@ -147,7 +145,7 @@ children’s curiosity about her. She explains:
 > I was immediately surrounded by children firing questions at me which I
 > had trouble understanding and answering…In spite of the difficulty with
 > the language, this much attention from my classmates felt more like the
-> strokes of little velvet paws than a barrage (p. 103).
+> strokes of little velvet paws than a barrage. (p. 103)
 
 After a period of isolation from other children her age (on the journey from
 Vilna to Rubtsovsk, and during the first days on the steppes), the other fifth
@@ -165,7 +163,7 @@ recalls:
 > I was beginning to hold more blissful than a full belly. A day that I
 > was invited to play a game of dominoes or hopscotch I counted a big one,
 > one that sent me home bursting to tell my grandmother about it. (pp.
-> 122, 124).
+> 122, 124)
 
 Open to any kind of social invitation, Esther celebrates a trip to see a movie
 with two girls from school. She focuses on social victories over her lack of
