@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friends During Bad Times
+title: Esther's Choice to Thrive: How Esther Rudomin Seeks and Finds Goodness in Other People in order to Stay Positive
 book_author: Esther Hautzig
 categories: 10-12
 image: the-endless-steppe.webp
@@ -79,8 +79,8 @@ baby in the home.
 
 # Teachers
 
-Full of apprehension, Esther prepares to attend school in Rubtsovsk for the
-first time. Esther worries because she doesn’t know anyone, she doesn’t speak
+As Esther prepares to attend school in Rubtsovsk for the
+first time, she worries because she doesn’t know anyone, she doesn’t speak
 Russian very well, and of course - she is a “capitalist” and “deportee” (p. 95).
 When Esther and her mother arrive at the school, the school principal meets them
 first. Esther allows herself to feel reassured by the woman:
@@ -93,10 +93,9 @@ first. Esther allows herself to feel reassured by the woman:
 > beings. (p. 97)
 
 Esther sees that peasant life in Siberian challenges all people, not only the
-deportees. She finds the local Siberian principal’s appearance, “rough,
-melancholy, and sad.” Esther interprets the principal’s reception of her and her
-mother as potentially sympathetic. The principal seems to acknowledge Esther and
-her mother’s challenges (when she looks at Esther and her mother’s “shabby wet
+deportees; she finds the local Siberian principal’s appearance relatable as the the woman looks, “rough,
+melancholy, and sad.” Esther interprets the principal’s reception of her as potentially sympathetic. The principal seems to acknowledge Esther and
+her mother’s struggles (when she looks at Esther and her mother’s “shabby wet
 shoes”). The principal also rises to greet Esther and her mother, and gives them
 a small smile. Esther takes the subtle gestures as signs of respect for her
 humanity, and finds them enough to feel at ease. In the second school Esther
@@ -113,7 +112,7 @@ attends, Esther finds even more joy. She claims:
 
 Esther appreciates the experience and professionalism of her new teachers, and
 empathizes with them as displaced people. She credits the teachers at the new
-school with the ability to vibrantly communicate their knowledge. Because of
+school with the desire, and ability, to vibrantly communicate their knowledge. Because of
 them, Esther feels that she can access great cities, and understand the value of
 various forms of art. One teacher specifically inspires Esther:
 
