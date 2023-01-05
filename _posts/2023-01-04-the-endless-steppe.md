@@ -25,7 +25,6 @@ of Rubtsovsk, Esther’s first home in Siberia, Esther and her grandmother recei
 permission to visit the town’s market. When the two arrive at the market, Esther
 relates:
 
-
 > In a second, we were surrounded: Where were we from? Where did we live?
 > What did Grandmother do? How old was I? They were exceedingly friendly
 > and frankly inquisitive, these native Siberians…It was, in fact, the
@@ -41,7 +40,6 @@ uses the marketplace socialization to put the labor camp, and the horrors of
 WWII in general, in the back of her mind for a short time. When the Rudomins
 have the chance to leave the labor camp, they find shelter with a Russian
 couple, Nina and Nikita. Esther remembers:
-
 
 > ...there was a rather odd social custom: it consisted of nit picking and
 > it was usually done after a nice cup of hot tea. The first time I
@@ -59,7 +57,6 @@ make the activity with Nina and her friend “cozy” and “nice” for Esther.
 Esther lives with another couple in Rubtsovsk: Natasha and Nikolay, and their
 baby daughter, Katia. With the family, Esther comes to feel almost normal in
 Siberia:
-
 
 > That winter when I was thirteen years old…The line between Polish
 > deportee and Siberian girl sometimes appeared dangerously close to being
@@ -85,7 +82,6 @@ Russian very well, and of course - she is a “capitalist” and “deportee” 
 When Esther and her mother arrive at the school, the school principal meets them
 first. Esther allows herself to feel reassured by the woman:
 
-
 > The principal was an elderly woman with rough gray hair pulled back from
 > a melancholy face. Her sad eyes sized us up and came to rest for a
 > second on our shabby wet shoes. She rose to greet us with a little smile
@@ -101,7 +97,6 @@ a small smile. Esther takes the subtle gestures as signs of respect for her
 humanity, and finds them enough to feel at ease. In the second school Esther
 attends, Esther finds even more joy. She claims:
 
-
 > It was in this school that I was to meet some truly great teachers.
 > Almost all of them had taught in the universities in European Russia and
 > had been forced to flee the German armies. They were generous with their
@@ -115,7 +110,6 @@ empathizes with them as displaced people. She credits the teachers at the new
 school with the desire, and ability, to vibrantly communicate their knowledge. Because of
 them, Esther feels that she can access great cities, and understand the value of
 various forms of art. One teacher specifically inspires Esther:
-
 
 > If books had become more and more important to me, it was no doubt
 > because their high priestess was Anna Semyonovna. Anna Semyonovna taught
@@ -140,7 +134,6 @@ reading and writing skills.
 On the first day at her new school in Siberia, Esther welcomes the other
 children’s curiosity about her. She explains:
 
-
 > I was immediately surrounded by children firing questions at me which I
 > had trouble understanding and answering…In spite of the difficulty with
 > the language, this much attention from my classmates felt more like the
@@ -154,7 +147,6 @@ children. “Like the strokes of little velvet paws,” the children’s convers
 comforts her. In the Spring of her first year at the Siberian school, the
 American_ _movie, _Charlie’s Aunt_, comes to the Rubtsovsk movie theater. Esther
 recalls:
-
 
 > Two girls invited me to go with them. I was beside myself. An invitation
 > in itself was something I longed to accept - any invitation would do…
@@ -171,7 +163,6 @@ food, but with social interaction, so that at the end of a day of play, she
 leaves school not “bursting” with a full belly, but even better, with a full
 spirit. After some time, Esther gains what she desires most: a best friend. One
 day after school:
-
 
 > For the first time [Svetlana] asked me to stay. We ate sunflower seeds
 > spitting the shells out till our chins were bearded with them. Now I had
