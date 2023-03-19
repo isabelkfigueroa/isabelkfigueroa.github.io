@@ -173,7 +173,7 @@ a bleak environment, Esther feels as though she “would die with happiness.”
 
 In a foreign country, surrounded by a new language, and labeled, “capitalists,”
 and “class enemies,” (p. 23), Esther and her family struggle for years to
-survive. Although helpless against the injustice of her forcible relocation,
+survive. Helpless against the injustice of her forcible relocation,
 Esther continues to exercise what control over her life that she does have.
 Although Russian soldiers devastate Esther’s family, Esther remains open to
 Russian people. Esther allows herself to socialize normally with the Rubtsovsk
