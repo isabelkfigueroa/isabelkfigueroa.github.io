@@ -19,8 +19,7 @@ specific teachers, and her classmates, in order to make life in exile bearable.
 
 # Townspeople
 
-Immediately upon her arrival in Siberia, Esther searches for goodness and
-positive interactions with new people. While at the labor camp on the outskirts
+Immediately upon her arrival in Siberia, Esther searches for positive interactions with new people. While at the labor camp on the outskirts
 of Rubtsovsk, Esther’s first home in Siberia, Esther and her grandmother receive
 permission to visit the town’s market. When the two arrive at the market, Esther
 relates:
@@ -74,7 +73,7 @@ company. Natasha’s attitude and behavior indicate to Esther that she is a fami
 member, and Esther happily assumes a familial role as another caregiver to the
 baby in the home.
 
-# Teachers
+# Educators 
 
 As Esther prepares to attend school in Rubtsovsk for the
 first time, she worries because she doesn’t know anyone, she doesn’t speak
@@ -106,8 +105,8 @@ attends, Esther finds even more joy. She claims:
 > ballet and music - and books of course. (pp. 199 - 200)
 
 Esther appreciates the experience and professionalism of her new teachers, and
-empathizes with them as displaced people. She credits the teachers at the new
-school with the desire, and ability, to vibrantly communicate their knowledge. Because of
+empathizes with them as displaced people. She hails the teachers at the new
+school for their desire, and ability, to vibrantly communicate their knowledge. Because of
 them, Esther feels that she can access great cities, and understand the value of
 various forms of art. One teacher specifically inspires Esther:
 
@@ -125,7 +124,7 @@ various forms of art. One teacher specifically inspires Esther:
 Esther compares literature to a religion, her teacher Anna Semyonovna to the
 religion’s leader, and the 7th grade students to disciples that Anna Semyonovna
 enthusiastically converts. Esther uses the extended metaphor of Anna Semyonovna
-as a religious leader to emphasize the teacher’s great importance. Esther thanks
+as a religious leader to emphasize the teacher’s great importance. Esther credits
 Anna Semyonovna for her own mastery of the Russian language, and her Russian
 reading and writing skills.
 
@@ -144,8 +143,8 @@ Vilna to Rubtsovsk, and during the first days on the steppes), the other fifth
 grade students invigorate Esther. She focuses less on her struggle with the
 Russian language, and more on the welcome attention she receives from the other
 children. “Like the strokes of little velvet paws,” the children’s conversation
-comforts her. In the Spring of her first year at the Siberian school, the
-American_ _movie, _Charlie’s Aunt_, comes to the Rubtsovsk movie theater. Esther
+comforts her. In the spring of her first year at the Siberian school, the
+American movie, _Charlie’s Aunt_, comes to the Rubtsovsk movie theater. Esther
 recalls:
 
 > Two girls invited me to go with them. I was beside myself. An invitation
@@ -157,8 +156,7 @@ recalls:
 > 122, 124)
 
 Open to any kind of social invitation, Esther celebrates a trip to see a movie
-with two girls from school. She focuses on social victories over her lack of
-food. Games with other children such as dominoes or hopscotch fill her not with
+with two girls from school. She treasures social victories over food. Esther explains that games with other children such as dominoes or hopscotch fill her not with
 food, but with social interaction, so that at the end of a day of play, she
 leaves school not “bursting” with a full belly, but even better, with a full
 spirit. After some time, Esther gains what she desires most: a best friend. One
