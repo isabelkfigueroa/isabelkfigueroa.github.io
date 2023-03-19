@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Esther Rudomin Seeks and Finds Goodness in Other People in order to Thrive
+title: Esther Rudomin Finds the Good in People
 book_author: Esther Hautzig
 categories: 10-12
 image: the-endless-steppe.webp
