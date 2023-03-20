@@ -4,6 +4,7 @@ title: _Half the Sky_
 book_author: Sheryl WuDunn and Nicholas Kristof
 categories: 18+
 image: half_the_sky.jpg
+published: false
 ---
 
 Pulitzer Prize winners Sheryl WuDunn and Nicholas Kristof champion gender
