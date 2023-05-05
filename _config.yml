@@ -53,3 +53,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# https://github.com/jekyll/minima/issues/709
+# relavent info:
+# The root cause of these warnings are from jekyll-sass-converter-3.0.0 which
+# uses a new implementation of Sass. You can edit your Gemfile to use only
+# jekyll-sass-converter-2.x. Or you can continue using the v3 of sass-converter
+# but disable these warnings via your config file:
+sass:
+  quiet_deps: true
