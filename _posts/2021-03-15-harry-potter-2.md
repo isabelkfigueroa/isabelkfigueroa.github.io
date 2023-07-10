@@ -14,7 +14,7 @@ adults. He sees how his own Muggle-born friend, Hermione Granger, sustains
 slurs, threats, and violence, and how even his own friends make ignorant
 comments.
 
-### Anti-Muggle History at Hogwarts
+# Anti-Muggle History at Hogwarts
 
 Anti-Muggle sentiments are nothing new at Hogwarts. Professor Binns explains to
 Harry the long history of discrimination against Muggles at the school. Around
@@ -50,7 +50,7 @@ make a pure-blood wizard feel shame. In contrast to his feelings towards Muggles
 history of the wizarding community such as Salazar Slytherin, Lord Voldemort,
 and Lucious Malfoy, support the hatred of Muggles and the supremacy of all-magic families.
 
-### Discrimination Against Hermione
+# Discrimination Against Hermione
 
 At school, Harry witnesses anti-Muggle discrimination against his friend
 Hermione Granger. Although Hermione is a witch, Draco Malfoy criticizes Hermione
@@ -80,7 +80,7 @@ beliefs that only pure-blood students deserve to study at Hogwarts. After the
 slurs, threats, and genuine ill-will towards Hermione, her abuse culminates when
 she becomes one of the physically assaulted victims of the monster.
 
-### Ron and Hagrid Make Mistakes
+# Ron and Hagrid Make Mistakes
 
 Despite the terrible consequences of discrimination that Harry and his friends
 observe, they are guilty of problematic comments as well. Harry’s best friend,
