@@ -6,8 +6,6 @@ categories: 10-12
 image: the-incredible-journey.jpg
 ---
 
-The Benefits of Friends
-
 _The Incredible Journey_, Sheila Burnford’s 1961 novel, recounts the mission
 that three pets take across the Canadian wilderness in search of their human
 family members. The pet trio consists of the Siamese cat, Tao, the old English
