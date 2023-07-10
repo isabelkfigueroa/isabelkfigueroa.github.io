@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Magic Fish
-book_author: Trune Le Nguyen
+title: Trung Le Nguyen's Meaningful Art
+book_author: Trung Le Nguyen
 categories: 13-15
 image: magic-fish.jpg
 ---
