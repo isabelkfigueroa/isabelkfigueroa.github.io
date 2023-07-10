@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  _The Sorrow of War_
+title:  _That Which does not go Away_
 book_author: Bao Ninh
 date:   2022-09-10 10:00:00 +0700
 categories: 18+
