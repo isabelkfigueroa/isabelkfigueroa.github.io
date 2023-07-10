@@ -12,7 +12,7 @@ that people must understand some fundamental, albeit challenging, aspects of
 antiracism: good ideas and work reflect an understanding of policy, equality,
 and inclusivity.
 
-### Antiracism Focuses on Policy
+# Antiracism Focuses on Policy
 
 Dr. Kendi urges people to focus on equitable policy change to combat racism. He
 stipulates that an antiracist world is possible “...if we focus on power instead
@@ -37,7 +37,7 @@ that people of color do not have equal rights to White spaces. The _Plessy v. Fe
 illustrates one step backwards in the nation's progress, and the national standard of racial segregation for the first half of
 the 20th century.
 
-### Antiracism Battles Segregation and Assimilation
+# Antiracism Battles Segregation and Assimilation
 
 Antiracism competes against the two distinctly racist ideologies of segregation
 and assimilation. Segregationists tend to dehumanize people of color, and claim
@@ -61,7 +61,7 @@ ideas support a racial hierarchy that places Whiteness as the ideal at the top.
 Antiracism understands that racial groups are inherently equal, and no one
 racial group requires development (p. 24).
 
-### Antiracism Supports All People
+# Antiracism Supports All People
 
 Dr. Kendi stresses that support for people of color does not vilify White
 people. He insists, “To be antiracist is to never conflate racist people with
