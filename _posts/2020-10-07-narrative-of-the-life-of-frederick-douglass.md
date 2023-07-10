@@ -7,7 +7,7 @@ image: frederick_douglass.jpg
 ---
 How does Frederick Douglass manage to explain slavery to a broad audience? In his autobiography, _Narrative of the Life of Frederick Douglass, an American Slave_ (1845/2003), Douglass conveys the horror of 19th century slavery in the United States through effective literary devices. Frederick Douglass’s autobiography contains imagery, simile, and personification to help bring to life Douglass’s personal experiences.
 
-### Imagery
+# Imagery
 
 Douglass’s imagery details the suffering he experiences even as a child. He remembers, “My feet have been so cracked with the frost, that the pen with which I am writing might be laid in the gashes” (p. 36). Douglass draws attention to a specific body part, his feet, to emphasize the reality of his memory. His feet do not simply suffer from the cold, but from the frost, which creates the image of ice crystals. He uses a common tool, a pen, to suggest the terrible size of the gashes in his feet. Douglass’s vivid portrayal of his cracked feet serves as effective visual evidence of the cold he experiences.
 
@@ -15,7 +15,7 @@ Douglass also engages the senses when he describes the pain of his enslaved fami
 
 While the abuse of Douglass’s aunt immediately affects him, he only later reflects on the more subtle sorrow that enslaved people reveal in their daily expressions, such as their singing. He explains that the songs of enslaved people are “...loud, long, and deep; they breathed the prayer and complaint of souls boiling over with the bitterest anguish” (p. 26). Douglass describes the sounds as “loud, long, and deep,” to highlight their intensity. He employs the image of boiling, to suggest that the enslaved people live perpetually with overflowing emotions that they cannot safely voice, except through song. Douglass’s imagery presents the true meaning and gravity of the plantation songs.
 
-### Simile
+# Simile
 
 Douglass uses simile, specifically the comparison of enslaved people to livestock such as pigs or sheep, to show the dehumanization of enslaved people. Douglass relates the inhumane treatment that enslaved children sustain when he describes mealtime: “The children were then called, like so many pigs, and like so many pigs they would come and devour the mush...He that ate fastest got most; he that was strongest secured the best place; and few left the trough satisfied” (p. 36). Douglass compares the care of enslaved children to pigs because the children must eat from a trough, for animals, and receive only mush (boiled cornmeal). As there is never enough food for all, the children must compete for access to the food. _Where_ the enslavers distribute food, _what food_ they concede, and _how much food_, all reveal the contemptuous treatment of enslaved children.
 
@@ -25,7 +25,7 @@ Douglass insists that enslavers are also victims of slavery’s dehumanizing nat
 
 In fact, slavery corrupts all members of society. When he escapes to New York, Douglass portrays everyone in the country as a potential crocodile that hunts him: “...[the fugitive slave] is every moment subjected to the terrible liability of being seized upon by his fellow-men, as the hideous crocodile seizes upon his prey!” (p 93). Even in New York, Douglass knows that he is still in constant danger. In any state, people earn rewards for the discovery of a fugitive slave. Thus, the nation encourages everyone to be a cold-blooded, ambush-predator, and do their part to support slavery.
 
-### Personification
+# Personification
 
 Douglass personifies slavery to show a concrete cause to people’s real, daily struggles. As a child, Douglass hopes, “...that slavery would not always be able to hold [him] within its foul embrace…” (p. 39). Although he has faith, Douglass recognizes that slavery “holds” him physically close, in an “embrace,” against his will. He feels that he is too small and powerless to resist.
 
