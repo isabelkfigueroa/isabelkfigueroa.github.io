@@ -6,8 +6,6 @@ categories: 10-12
 image: dear-america.jpg
 ---
 
-# The Ever Presence of God
-
 Kathryn Lasky’s 1996 historical novel, _The Diary of Remember Patience Whipple:
 A Journey to the New World_, tells the story of a young English girl’s adventure
 from Europe to North America. The diary begins in October of 1620, with
@@ -23,7 +21,7 @@ to land at Cape Cod, and when they move to nearby Plimoth. Throughout the diary,
 Remember references God. Remember’s diary entries reveal how the pilgrims’
 understanding of God affects every aspect of their lives.
 
-## Thoughts
+# Thoughts
 
 While at sea, and on land, Remember frequently thinks of God’s role in her life.
 At one point during their sea voyage, a rogue wave causes the main beam of their
@@ -48,7 +46,7 @@ work. Remember marvels at the fact that Blessing can actually be useful, have
 fun, and not worry her caregivers all at the same time. Remember’s diary entries
 illustrate how God stays in her thoughts.
 
-## Words
+# Words
 
 The people in Remember’s life often talk about God. When young Will Butten
 passes away aboard the Mayflower, Hummy and Remember mourn him. Hummy says to
@@ -79,7 +77,7 @@ of jealousy. Of all the sins, or the immoral actions against God, Remember’s
 mother says that jealously is worst of all. Remember’s friend, father, and
 mother, all refer to their religious beliefs when they speak to one another.
 
-## Actions
+# Actions
 
 Remember explains: “The reason for our journey is our religion. You see, we are
 not the **Pope**’s people nor the King’s really, but God’s people. We are Saints
@@ -127,7 +125,8 @@ understanding of God can affect every aspect of their life.
 ---
 References
 
-Lasky, Kathryn. (1996). _Dear America: The diary of Remember Patience Whipple_.
+Lasky, Kathryn. (1996). _The diary of Remember Patience Whipple: A journey to the
+new world_.
 Scholastic Inc.
 
 <table>

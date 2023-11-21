@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Killers of the Flower Moon
+title: The Purpose of David Grann’s Imagery in _Killers of the Flower Moon_
 book_author: David Grann
 categories: 18+
 image: killers-of-the-flower-moon.jpg
 ---
-
-# The Purpose of David Grann’s Imagery in _Killers of the Flower Moon_
 
 David Grann’s 2017 nonfiction work, _Killers of the Flower Moon_, recounts the
 changes that the Osage Nation in the United States experiences around the turn
@@ -20,7 +18,7 @@ government even affects the scent of the Osage land, Grann illustrates. Grann’
 vivid language to describe sights, sounds, and smells, brings to life the
 changes that the Osage Nation endures under the United States.
 
-## Sights
+# Sights
 
 David Grann describes how the U.S. government causes visible changes in Osage
 Nation members. Grann writes that by 1877, there were almost no American buffalo
@@ -50,7 +48,7 @@ appearance. Grann communicates the deliberate changes that the U.S. government
 forces on the Osage people through concrete images of their undernourished
 bodies, and their change of clothes and hair styles.
 
-## Sounds
+# Sounds
 
 Throughout _Killers of the Flower Moon_, Grann describes how the sounds of the
 natural environment familiar to the Osage people begin to disappear with the
@@ -79,7 +77,7 @@ explains is an overpriced coffin. The sounds of the people and animals in the
 Osage area slowly fade, and the new sounds of modern American technology fill
 the air.
 
-## Smells
+# Smells
 
 Grann explains how the scents in the Osage town of Gray Horse, Oklahoma, change
 as more people and regulations arrive. He writes: “Automobiles sped along paved
