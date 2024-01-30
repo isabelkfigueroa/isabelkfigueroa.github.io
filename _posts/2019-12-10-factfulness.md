@@ -5,6 +5,7 @@ book_author: Hans Rosling
 date:   2019-12-10 10:00:00 +0700
 categories: 13-15
 image: factfulness.jpg
+published: false
 ---
 
 Hans Rosling’s 2018 book, _Factfulness_,
