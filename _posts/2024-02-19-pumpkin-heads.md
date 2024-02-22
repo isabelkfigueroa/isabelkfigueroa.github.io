@@ -19,6 +19,8 @@ to facilitate a conversation between Josiah and his longtime crush, Marcy. Deja
 speaks kindly to Josiah and about Josiah. Deja uses her words to show how much
 she cares for Josiah.
 
+## Deja Encourages Josiah
+
 Deja consistently encourages Josiah. At the beginning of their last night at the
 pumpkin patch, Josiah feels like he may never return to the patch. Deja tries to
 comfort him, and says: “We’re going to college Josie, not Mars. You’ll be
@@ -43,6 +45,8 @@ reasonable solution. Deja suggests to Josiah that they work another fun holiday
 job around Christmas time. Throughout the evening, Deja offers Josiah words of
 encouragement that help him feel reassured, powerful, and hopeful.
 
+## Deja Compliments Josiah
+
 Over the course of their last night at the pumpkin patch, Deja also gives Josie
 several heartfelt compliments. At Josiah’s request, Deja helps Josiah practice
 what to say to Marcy. As she pretends to be Josiah in a conversation with Marcy,
@@ -61,6 +65,8 @@ tricks, or magic “phase.” She describes Josiah’s magic as cool and funny. 
 insists that she does not have the same view of Josiah as he does of himself, or
 as he thinks Deja has of him. When Deja talks to Josiah, she uses positive
 adjectives such as nice, cute, cool, and funny to describe him.
+
+## Deja says how much she values the time she spends with Josiah
 
 In addition to encouragement and commendation, Deja gives Josiah a clear
 understanding of how much she values her time with him. On their mission to find
