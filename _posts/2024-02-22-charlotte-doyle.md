@@ -6,8 +6,6 @@ categories: 13-15
 image: charlotte-doyle.jpg
 ---
 
-# The Developments of Charlotte Doyle
-
 Avi’s 1990 adventure, _The True Confessions of Charlotte Doyle_, illustrates how
 drastically a person can change over time. In the story, thirteen-year-old
 Charlotte Doyle travels from England back to America in order to reunite with
