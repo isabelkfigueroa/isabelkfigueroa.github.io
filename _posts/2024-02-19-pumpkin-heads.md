@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Pumpkin Heads
+title: Deja's Use of Language
 book_author: Rainbow Rowell
 categories: 16-18
 image: pumpkin-heads.jpg
 ---
-
-Deja’s Use of Language
 
 In the 2019 graphic novel, _Pumpkin Heads_, writer Rainbow Rowell and
 illustrator Faith Erin Hicks create the most loving character in Deja. _Pumpkin
