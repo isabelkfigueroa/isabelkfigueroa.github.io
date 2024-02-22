@@ -2,7 +2,7 @@
 layout: post
 title: Pumpkin Heads
 book_author: Rainbow Rowell
-categories: 13-15
+categories: 16-18
 image: pumpkin-heads.jpg
 ---
 
