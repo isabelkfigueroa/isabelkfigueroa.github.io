@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pumpkin Heads
+title: The Developments of Charlotte Doyle
 book_author: Rainbow Rowell
 categories: 13-15
 image: charlotte-doyle.jpg
