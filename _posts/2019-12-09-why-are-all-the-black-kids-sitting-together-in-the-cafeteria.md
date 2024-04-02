@@ -5,7 +5,7 @@ book_author: Beverly Daniel Tatum
 date:   2019-12-09 17:17:11 +0700
 categories: 16-18
 image: why_are_all_the_black_kids.jpg
-publish: false
+published: false
 ---
 
 The question may be uncomfortable because most of us don’t have enough practice
