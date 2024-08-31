@@ -71,14 +71,11 @@ articulation, and the use of magic.
 # Praise
 
 Jacks demonstrates new skills, allows Snap to practice the skills, and praises
-Snap when she does well. Jacks shows Snap how to feed baby possums, but the
-first time Snap feeds the possums, she feels that her form may not be correct.
-Jacks assures Snap: “I watched you...You did a fine job. Believe
+Snap when she does well. As Snap feeds the possums for the first time, she worries that her form may not be correct.
+Jacks assures Snap: “I watched you feed the others. You did a fine job. Believe
 me, I’d tell ya if ya didn’t” (p. 59). Jacks lets Snap know that she does pay
-close attention to Snap’s work. Jacks gives Snap her approval, and stresses that
-Snap can expect a correction if she does something wrong. Jacks gives Snap
-positive feedback while Snap feeds the possums to give Snap confidence in the
-moment. Jacks also introduces Snap to the scientific art of articulation - or
+close attention to Snap’s work. Jacks gives Snap
+positive feedback in the moment so that Snap has the confidence to continue with the feeding. If Snap does make a mistake, Jacks says, Snap can expect Jacks to correct her. Jacks also introduces Snap to the scientific art of articulation - or
 the reconstruction of animal bones. Snap helps Jacks with the work for a while,
 and when Snap offers to continue to help Jacks with the skeletons, Jacks
 replies, “Yeah, the extra help has been good. Yer doin’ a good job” (p. 117).
@@ -91,7 +88,7 @@ under control, Jacks tells Snap: “I’m impressed with how you handled yoursel
 kid. You did good” (p. 208). Jacks tells Snap that Snap’s performance of magic
 exceeds expectations. Jacks explicitly communicates her approval to Snap in the
 moment. Jacks’s praise of Snap’s good animal caretaking, articulation skills,
-and magic skills, provides Snap with the positive reinforcement she needs.
+and magic skills provides Snap with the positive reinforcement she needs.
 
 At first, Snap feels unsure of Jacks. Snap hears rumors about Jacks, and sees
 that Jacks’s clothes and house are out of the ordinary. Snap soon comes to
