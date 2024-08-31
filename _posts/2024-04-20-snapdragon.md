@@ -7,19 +7,17 @@ image: snapdragon.jpg
 ---
 
 Before Snapdragon meets “the town witch,” Jacks, Snapdragon suspects that Jacks
-eats pets. At first, Snapdragon, or Snap, calls Jacks an old loony. In Kat
-Leyh’s 2020 graphic novel, _Snapdragon_,when the main character of the same name
-goes to meet Jacks herself, Snap quickly finds Jacks to be a caring and capable
-adult. Jacks helps Snap’s injured dog, Good Boy, and Snap realizes that Jacks is
-a skilled animal caretaker. Soon, Jacks begins to teach Snap how to care for
+eats pets. In Kat Leyh’s 2020 graphic novel, _Snapdragon_, when the titular character
+goes to meet Jacks herself, however, she quickly finds Jacks to be a caring and capable
+adult. Jacks helps Snap’s injured dog, Good Boy, and Snap appreciates Jacks's animal caretaking skills. Jacks begins to teach Snap how to care for
 animals as well. While at Jacks’s house, Snap also sees the articulation work
 that Jacks does. Jacks explains to Snap that she collects the bones of dead
 animals and carefully puts the bones back together. Jacks then sells the
-skeletons to people for museum, education, or collector purposes. In addition to
+skeletons to people for museum, education, or collection purposes. In addition to
 the animal caretaking, Jacks begins to teach Snap how to put animal bones back
 together. After many productive days together, Snap discovers that Jacks can use
 magic. Snap begs Jacks to teach her magic, too, and Jacks agrees. Throughout
-their time together, Jacks proves to be a wonderful teacher to Snap, as she
+their time together, Jacks serves as an effective teacher to Snap, as she
 models the correct way to do work, allows Snap to practice on her own, and gives
 Snap positive feedback when Snap does well.
 
@@ -32,11 +30,10 @@ keep them possums here. But you gotta take care of ‘em. I’ll even show you h
 (p. 20). Upon this second meeting, Jacks initiates the first of many learning
 experiences for Snap. Jacks agrees to house and support the baby possums if Snap
 also helps take care of them. Jacks shows Snap how to properly feed the baby
-possums in order to keep them alive. The second skill Jacks teaches Snap is
-articulation, or how to put animal skeletons back together. Snap watches as
+possums in order to keep them alive. Next, Jacks teaches Snap the skill of articulation, or how to put animal skeletons back together. Snap watches as
 Jacks models how to arrange the bones. Snap inquires about her movements, and
 Jacks replies that she is: “Puttin’ the spine of this rabbit together. The order
-of the vertebrae gotta be right” (p. 60). Jacks uses proper anatomic vocabulary
+of the vertebrae gotta be right” (p. 60). Jacks uses specific anatomic vocabulary
 to explain what she does during the process. Jacks shows Snap that while some
 bones look similar, they have important distinctions and their placement
 matters. Later, Snap discovers that Jacks can use magic and Snap asks Jacks to
@@ -55,14 +52,12 @@ practice.  First, Jacks shows Snap how to feed the baby possums. Then, Jacks
 allows Snap to feed the possums herself. As Snap feeds the possums, Jacks guides
 her, and says: “That’s it. Let ‘em eat at their own pace. Don’t let any get in
 their nose. They’re nearly ready to eat on their own” (p. 58). In this instance,
-Snap is able to hold a baby possum, and bottle feed the animal by herself. Jacks
-watches and makes guiding comments while Snap does the work with her own hands.
-Jacks reminds Snap not to feed too forcefully or give unnecessary breaks, and
-reminds Snap what she needs to avoid. Regarding the reconstruction of animal
+Snap holds a baby possum, and bottle feeds the animal by herself. Jacks
+watches and makes guides while Snap does the work with her own hands. Regarding the reconstruction of animal
 bones, Jacks begins to create opportunities for Snap to become more hands-on as
 well. Jacks says to Snap: “Once I bend the spine into the right shape, you can
 help sort the toe bones” (p. 68). Jacks teaches Snap the process of
-reconstruction and lets Snap participate in the work in one small way. After
+reconstruction and allows Snap to participate in one small way at first. Jacks makes Snap's initial participation manageable so Snap can find success. After
 Jacks models the use of magic, she encourages Snap to try for herself. Jacks
 instructs Snap: “See if you can reach out to ‘im. Close your eyes. Concentrate.
 Try warmin’ your hands. Focus on the warmth of your palms…imagine it’s a
@@ -76,7 +71,7 @@ articulation, and the use of magic.
 
 # Praise
 
-Jack demonstrates new skills, allows Snap to practice the skills, and praises
+Jacks demonstrates new skills, allows Snap to practice the skills, and praises
 Snap when she does well. Jacks shows Snap how to feed baby possums, but the
 first time Snap feeds the possums, she feels that her form may not be correct.
 Jacks assures Snap: “I watched you feed the others. You did a fine job. Believe
