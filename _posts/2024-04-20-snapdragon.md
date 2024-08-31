@@ -57,8 +57,7 @@ watches and guides while Snap does the work with her own hands. Regarding the re
 bones, Jacks begins to create opportunities for Snap to become more hands-on as
 well. Jacks says to Snap: “Once I bend the spine into the right shape, you can
 help sort the toe bones” (p. 68). Jacks teaches Snap the process of
-reconstruction and allows Snap to participate in one small way at first. Jacks makes Snap's initial participation manageable so Snap can find success. After
-Jacks models the use of magic, she encourages Snap to try for herself. Jacks
+reconstruction and allows Snap to participate in one small way at first. Jacks makes Snap's initial participation manageable so Snap can find success. After Jacks models the use of magic, she encourages Snap to try for herself. Jacks
 instructs Snap: “See if you can reach out to ‘im. Close your eyes. Concentrate.
 Try warmin’ your hands. Focus on the warmth of your palms…imagine it’s a
 light…no, don't hold your breath. Focus. Now try” (pp. 148-149). Jacks instructs
@@ -74,7 +73,7 @@ articulation, and the use of magic.
 Jacks demonstrates new skills, allows Snap to practice the skills, and praises
 Snap when she does well. Jacks shows Snap how to feed baby possums, but the
 first time Snap feeds the possums, she feels that her form may not be correct.
-Jacks assures Snap: “I watched you feed the others. You did a fine job. Believe
+Jacks assures Snap: “I watched you...You did a fine job. Believe
 me, I’d tell ya if ya didn’t” (p. 59). Jacks lets Snap know that she does pay
 close attention to Snap’s work. Jacks gives Snap her approval, and stresses that
 Snap can expect a correction if she does something wrong. Jacks gives Snap
