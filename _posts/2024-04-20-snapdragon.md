@@ -8,7 +8,7 @@ image: snapdragon.jpg
 
 Before Snapdragon meets “the town witch,” Jacks, Snapdragon suspects that Jacks
 eats pets. In Kat Leyh’s 2020 graphic novel, _Snapdragon_, when the titular character
-goes to meet Jacks herself, however, she quickly finds Jacks to be a caring and capable
+meet Jacks, however, she quickly finds Jacks to be a caring and capable
 adult. Jacks helps Snap’s injured dog, Good Boy, and Snap appreciates Jacks's animal caretaking skills. Jacks begins to teach Snap how to care for
 animals herself. While at Jacks’s house, Snap also sees the articulation work
 that Jacks does. Jacks explains to Snap that she collects the bones of dead
