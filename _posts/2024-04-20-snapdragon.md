@@ -53,7 +53,7 @@ allows Snap to feed the possums herself. As Snap feeds the possums, Jacks guides
 her, and says: “That’s it. Let ‘em eat at their own pace. Don’t let any get in
 their nose. They’re nearly ready to eat on their own” (p. 58). In this instance,
 Snap holds a baby possum, and bottle feeds the animal by herself. Jacks
-watches and makes guides while Snap does the work with her own hands. Regarding the reconstruction of animal
+watches and guides while Snap does the work with her own hands. Regarding the reconstruction of animal
 bones, Jacks begins to create opportunities for Snap to become more hands-on as
 well. Jacks says to Snap: “Once I bend the spine into the right shape, you can
 help sort the toe bones” (p. 68). Jacks teaches Snap the process of
