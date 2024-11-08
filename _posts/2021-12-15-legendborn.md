@@ -4,6 +4,7 @@ title: Make a Character Chart for _Legendborn_
 book_author: Tracy Deonn
 categories: 16-18
 image: legendborn.jpeg
+published: false
 ---
 
 Tracy Deonn’s _Legendborn_ (2020), follows Briana Matthews as she meets a full cast of complex characters. Most of the characters are around the same age and attend the University of North Carolina - Chapel Hill. The new people that Briana comes to know exhibit various backgrounds, physical traits, preferences, and behaviors. A simple character chart can help track each character’s development. The character chart below includes descriptions, as well as the words and actions of ten of the new people that Briana meets.
