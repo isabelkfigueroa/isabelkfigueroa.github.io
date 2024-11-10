@@ -4,6 +4,7 @@ title: The Fundamentals of Antiracism
 book_author: Ibram X. Kendi
 categories: 16-18
 image: antiracist.jpg
+Published: false
 ---
 
 _How to be an Antiracist_ (2019), by [Dr. Ibram X. Kendi](https://www.ibramxkendi.com/media), explains that antiracism is the necessary opposition to racism
