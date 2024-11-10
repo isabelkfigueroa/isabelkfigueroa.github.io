@@ -4,7 +4,7 @@ title: Real-Life Events in Lois Lowry's _Number the Stars_
 book_author: Lois Lowry
 categories: 10-12
 image: number-the-stars.jpg
-Published: false
+published: false
 ---
 
 Lois Lowry’s 1989 novel, _Number the Stars_, refers to several real events in
