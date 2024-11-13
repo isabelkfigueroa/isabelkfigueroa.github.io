@@ -3,6 +3,7 @@ layout: post
 title: Learn More about Slow and Incomplete Progress in the United States
 categories: 10-12
 image: finding-freedom.jpg
+published: false
 ---
 
 In _Finding Freedom_ (2014) and _A Heart Full of Hope_ (2014), author Connie
