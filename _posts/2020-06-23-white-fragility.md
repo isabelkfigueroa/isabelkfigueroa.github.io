@@ -4,6 +4,7 @@ title: _White Fragility_
 book_author: Robin DiAngelo
 categories: 18+
 image: white_fragility.jpg
+published: false 
 ---
 In her 2018 book, _White Fragility: Why It’s so Hard for White People to Talk About Racism_, Dr. Robin DiAngelo explains how white people in the United States can oppose racist ideas that emerge in everyday conversations. Dr. DiAngelo insists that racism against black people is a system that Americans must dismantle. However, while legal and institutional change is a priority, white people can also change for the better when it comes to interpersonal behavior. Dr. DiAngelo urges white people to confront their own racism (overcome white fragility), and to challenge racism that other white people exhibit (break white solidarity).
 
