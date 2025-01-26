@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _Love Hurts in *Legendborn*_
+title: _Love Hurts in Legendborn_
 book_author: Tracy Deonn
 categories: 16-18
 image: legendborn.jpeg
