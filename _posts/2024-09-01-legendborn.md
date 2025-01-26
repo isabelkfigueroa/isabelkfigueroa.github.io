@@ -1,12 +1,10 @@
 ---
 layout: post
-title: _Legendborn_
+title: _Love Hurts in *Legendborn*_
 book_author: Tracy Deonn
 categories: 16-18
 image: legendborn.jpeg
 ---
-
-# Love Hurts
 
 In Tracy Deonn’s 2020 novel, *Legendborn*, teenagers Bree, Nick, and Sel endure
 intense experiences not only in battle against their enemies, but also in their
