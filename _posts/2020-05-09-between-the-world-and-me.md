@@ -4,6 +4,7 @@ title: Ta-Nehisi Coates on Violence Against Black People
 book_author: Ta-Nehisi Coates
 categories: 18+
 image: between_the_world_and_me.jpg
+published: false 
 ---
 
 In his 2015 open letter, _Between the World and Me_, author and journalist,
