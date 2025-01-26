@@ -1,12 +1,10 @@
 ---
 layout: post
-title: _The Catcher in the Rye_
+title: _Holden's Search for Connection_
 book_author: J.D. Salinger
 categories: 16-18
 image: catcher-in-the-rye.webp
 ---
-
-# Searching for Connection
 
 As Holden Caulfield faces his dismissal from yet another school, he battles
 intense feelings of isolation and loss. To fight the loneliness he experiences,
