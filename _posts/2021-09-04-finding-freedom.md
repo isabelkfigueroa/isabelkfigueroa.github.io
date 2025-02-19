@@ -3,94 +3,20 @@ layout: post
 title: Learn More about Slow and Incomplete Progress in the United States
 categories: 10-12
 image: finding-freedom.jpg
-published: false
 ---
+Connie Porter’s book, Finding Freedom (2014), tells the story of a young enslaved girl named Addy Walker. At the beginning of the American Civil War in the 1860s, Addy and her family live on a plantation in North Carolina. Addy and her parents, Ben and Ruth, Addy’s older brother, Sam, and Addy’s baby sister, Esther, all suffer under slavery. The family wants to be free, but the only option the family has is to run away from the plantation. Addy’s parents struggle with the decision, however, to stay on the plantation or to run away because of the many risks that come with an attempt to escape. If the family does not succeed, and they must return to the plantation, they face terrible punishments. If they run away, not everyone can make the journey, and they must leave some loved ones behind. Thus, a successful escape to the north means they may never see some of their loved ones again. They also know that life-threatening obstacles lie along the entire journey north, not only within a few miles of the plantation. Lastly, even if the family manages to escape the south, they know that a new host of struggles await them in the north. Finding Freedom illustrates some of the many reasons why the choice to flee from slavery is not an easy one.
 
-In _Finding Freedom_ (2014) and _A Heart Full of Hope_ (2014), author Connie
-Porter brings to life the story of a young black girl and her family in
-19th century America. From her mother, Addy Walker learns of her
-great-grandmother’s kidnapping from Africa, and enslavement in America.
-During her own lifetime, Addy witnesses her family’s enslaver sell two
-members of her immediate family away. Nine-year-old Addy, her teenage
-brother, and her parents live and work on a North Carolina plantation. Hard
-work, injustice, and punishments are a part of daily life on the plantation.
-When civil war breaks out between the Union and the Confederacy, Addy’s
-brother fights against slavery and the Confederacy. Although _Finding Freedom_ and _A Heart Full of Hope_ are works of fiction, Connie Porter’s books
-communicate the realities of kidnapping, forced labor, and the Confederacy in 19th century America. U.S. history shows that even with the Act to Prohibit the Importation of Slaves, the Emancipation Proclamation, and the defeat of the Confederacy, change for the better is often slow.
+The Consequences
 
-# Kidnapping
+One reason why the decision to run away from the plantation is so difficult is because Addy’s parents know that their family must face great losses whether they succeed or not. Addy’s mother, Ruth, explains to Addy that Auntie Lula and Uncle Solomon cannot join them. Ruth tells Addy, “They too old to come to freedom, Addy. They can’t run” (p. 24). Addy does not initially realize that Lula and Solomon will not attempt to flee with them. Lula and Solomon are unable to undertake such a long journey north, on foot for much of the way. Lula and Solomon no longer have the strength to make the journey. While some of their loved ones are too old, others are too young. Ruth tells Addy that Addy’s baby sister Esther cannot come with them either. Ruth explains to Addy, “Esther might cry any time. Her crying would give us away” (p. 25). An escape out of North Carolina requires days and nights of not only fast moving, but also constant hiding. Addy and her family must remain undetected. Baby Esther’s unpredictable crying would put them all at risk because other people might hear the baby. If Addy and her family do manage to escape the plantation, they leave loved ones behind. However, they must also consider the consequences of an unsuccessful attempt to escape. The family knows the consequences because of Sam’s failed attempt in the past. Addy remembers, “[Sam] was tracked down…and brought back. He was tied to a tree and beaten with a whip by Master Stevens” (p. 4). Addy and her family know that escape is difficult because of the failed attempts in the past. If Addy and her family leave the plantation, and people catch them, they face a life-threatening physical punishment. While a successful escape means family separation, an unsuccessful attempt means dangerous punishments that may also result in the loss of family members.
 
-Almost as soon as European colonizers come to the Americas, they bring kidnapped people from different continents to work for them. After hundreds of years of international kidnapping, the U.S. government passes an [Act to
-Prohibit the Importation of
-Slaves](https://www.docsteach.org/documents/document/act-prohibit-importation-slaves).
-The Act forbids the “importation” of enslaved people from other countries to
-the United States as of January 1, 1808.
+The Journey
 
-Despite this law, evidence shows that smugglers continue to bring enslaved
-people to the United States even in the second half of the 19th century. The
-ship, _Wanderer_, brings about 400 enslaved Africans to Georgia in 1858, and
-the _[Clotilda](https://www.youtube.com/watch?v=OAlzo3ParMA)_ brings about
-100 enslaved Africans to Alabama in 1860.
+The Walker family knows that the journey north includes countless challenges. They first need to get away from the plantation, and the people there who enslave them. Auntie Lula and Uncle Solomon bring Ruth and Addy different clothes to wear on the night that the mother and daughter run away. Addy’s mother tells her, “When Master Stevens send out his dogs after us, it’s gonna be hard for them to track our smell if we got on somebody else’s clothes” (p. 23). Ruth expects the enslaver on the plantation to send dogs after them when he learns that they are missing. Ruth and Addy must not only run towards freedom, but run from dogs that chase them. Uncle Solomon warns Addy about another threat along the journey. He tells Addy, “...watch out for them Confederate soldiers. They dressed up in gray uniforms. They can be mean as snakes, and if they catch you, they gonna bring you back to slavery” (p. 29). During the Civil War, the Confederate soldiers fight for the Confederacy, or the southern states, in order to uphold the institution of slavery. Addy and her mother know that they must avoid the armed soldiers throughout the south. Besides dogs and other people, nature also threatens the success of Addy’s journey. When Addy and Ruth reach a river, “They stood on the bank of the river for a few moments, afraid to enter the foaming, angry water. Sam had taught Addy how to swim, but this water looked dangerous - and [Ruth] didn’t know how to swim at all” (p. 35). As Addy and her mother make the journey north on foot, they face all manner of terrain along the way. Although Ruth cannot swim, she must enter and cross the water to reach the other side. At the river, Ruth and Addy, who must help her, risk drowning. Dogs, Confederate soldiers, and dangerous rivers all have the potential to derail an attempt to escape, and cause harm.
 
-For the majority of the 19th century, enslavers also buy and
-sell enslaved people, and thus separate people from their families, within the United States. The [1844 Slave Manifest of the Brig
-Alo](https://www.docsteach.org/documents/document/brig-alo-manifest) and the
-[1860 Slave Manifest of the S.S.
-Texas](https://www.docsteach.org/documents/document/slave-manifest-of-the-ss-texas-from-la-salle-to-new-orleans)
-exhibit the legal transportation of enslaved people across the states.
+The North
 
-# Forced Labor
+Although Addy and her mother can be free in the north, they still face many hardships. When Addy and her mother arrive in Philadelphia, Pennsylvania, Addy asks her mother, “Momma, you think we should be waiting someplace else?...Maybe we should ask somebody what them signs say” Addy’s questions reveal some of the benefits she and her mother do not have at their disposal. First, Addy and her mother do not know anyone in Pennsylvania. They have no friends or family members there, they only trust, through the words of others, that there are people in Philadelphia who want to help. Addy and her mother wait for people they do not know to collect them. They wait at a designated location with nowhere else to go. Addy and her mother also cannot read, which makes them vulnerable in the new city. Later, Addy’s mother manages to find work, and a place for them to live. Life in Philadelphia is hard: “[Ruth] worked long hours in the shop…working just as hard as she had on the plantation. But back there, if Addy didn’t have a chore to do, she could find [Ruth] and sit with her while she worked. Not here…Mrs. Ford made it clear that Addy was not to be in the shop while [Ruth] was working” (p. 60). In the north, Ruth works long, hard hours. Ruth’s employer, Mrs. Ford, has strict rules for Ruth. Addy learns that in the city, with its shops and customers, there are different expectations. One day, Addy’s new friend Sarah takes Addy around the city. Addy sees a streetcar for the first time in her life, and wants to take a ride, but Sarah explains to Addy, “...they don’t let colored people ride on that streetcar…There is a few streetcars for colored people to ride on. But we can only ride on the outside platform, even if it’s raining or snowing. And they charge us colored folks the same fare they charge whites” (p. 63). Even in the north, white people and black people do not have the same experience in society. White people in the north still have full control of society, and prohibit black people from certain spaces. In Philadelphia, Addy and Ruth must still work hard while they live in an unequal society.
 
-On January 1, 1863, President Abraham Lincoln issues the [Emancipation
-Proclamation](https://www.docsteach.org/documents/document/emancipation-proclamation).
-The Proclamation intends to end slavery in most of the South, but not in all states.
+Finding Freedom centers around the Walker family’s escape from slavery in North Carolina, and their arrival as free people in Pennsylvania. The Walkers know that they do not want to be enslaved. They want to be free. However, the decision to flee their plantation in North Carolina is complicated. The family thinks critically about what they must leave behind, and what they may face if their escape fails. They also must consider what awaits them along the journey north. They expect the plantation’s dogs to chase them, they expect Confederate soldiers throughout the south, and they expect the unforgiving challenges of the outdoors. Finally, the Walkers do not entertain false hopes about the north. If they do make the journey to Philadelphia, they know they will arrive illiterate and friendless in a city where they must forge their own living. Although Philadelphia offers freedom from slavery, the American city does not offer freedom from all racial injustices. As Addy and her family see, an attempt to escape slavery comes with many known as well as unknown risks. Ultimately, Addy and Ruth decide to flee the south. However, Finding Freedom illustrates some of the reasons why the choice is so difficult.
 
-The Proclamation does not apply to enslaved people in Tennessee, and [news
-of the
-Proclamation](https://www.docsteach.org/documents/document/juneteenth-order)
-does not reach enslaved people in Texas until more than two years later.
-
-The 1865 [13th Amendment to the U.S.
-Constitution](https://www.docsteach.org/documents/document/thirteenth-amendment)
-applies to the entire nation. However, the Amendment declares: “Neither slavery nor
-involuntary servitude, except as a punishment for crime whereof the party
-shall have been duly convicted, shall exist within the United States.”
-
-# The Confederacy
-
-[Confederate General Robert E. Lee
-surrenders](https://www.docsteach.org/documents/document/articles-agreement-surrender-northern-virginia)
-his army to Union Lieutenant General Ulysses S. Grant in April, 1865. After
-General Lee’s decisive surrender, Confederate forces across the South also
-surrender.
-
-For decades following the defeat of the Confederacy, Americans continue to create and display Confederate statues and other
-tributes to the Confederacy. For example, in 1905, the country witnesses the unveiling of a monument to honor General [Nathan Bedford Forrest](https://www.docsteach.org/documents/document/nathan-bedford-forrest-monument-memphis-tn), and in 1940, the display of a General ["Stonewall" Jackson](https://www.docsteach.org/documents/document/stonewall-jackson-statue-manassas-va) statue.
-
-Even after the American Civil War (1861 - 1865), black Americans continue to face
-discrimination in the United States. The 1890 Separate Car Act in Louisiana, for instance, forbids black Americans to ride in the same train cars as white Americans. Homer Plessy, a mixed-race man, challenges the Act. A Louisiana court, the Supreme Court of Louisiana, and finally the Supreme Court of the United States, all rule against Homer Plessy, and uphold the Louisiana segregation law. The [Plessy v. Ferguson](https://www.docsteach.org/documents/document/judgment-plessy-ferguson) case sets the nation-wide standard of segregation for more than another 50 years.
-
-### Read _Finding Freedom_ and _A Heart Full of Hope_:
-
-What are at least 3 actions
-Addy takes when she learns that enslavers plan to take two of her family
-members away?
-
-What are at least 3 examples
-of forced labor that Addy
-and her family members perform on the plantation?
-
-What are at least 3
-sacrifices that Addy and her community members make in order to
-support the Union Army?
-
-When Addy and her family reach the North, what are at least 3 examples of discrimination that they face?
-
----
-References
-
-Porter, C. (2014). _Finding freedom: An Addy classic volume 1_. American
-Girl Publishing.
-
-Porter, C. (2014). _A heart full of hope: An Addy classic volume 2_.
-American Girl Publishing.
