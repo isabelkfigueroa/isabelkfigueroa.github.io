@@ -1,8 +1,8 @@
 ---
 layout: post
-title: _The journal of Joshua Loper A black cowboy_
+title: Insights from a Cowboy's Journal
 book_author: Walter Dean Myers
-categories: 13-15
+categories: 10-12
 image: a-black-cowboy.jpg
 published: true
 ---
