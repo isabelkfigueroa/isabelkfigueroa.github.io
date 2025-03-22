@@ -1,107 +1,26 @@
 ---
 layout: post
-title: Will Parker's Coming of Age Amongst Aliens
+title: Will Parker's Lone Stand Against Tradition
 book_author: John Christopher
 categories: 10-12
 image: tripods.jpg
 ---
 
-John Christopher’s 1967 book, _The White Mountains_, highlights one boy’s struggle
-to resist his world’s norms. Thirteen-year-old Will Parker lives in a world
-where Tripods dominate the earth, and everyone he knows seems to accept the sovereignty of the Tripods. People in Will’s life celebrate a Capping ceremony during which Tripods affix
-a metal Cap to people’s skulls. Besides the Capping celebration, people avoid
-discussions about the Tripods. When Will discovers that Caps enable Tripods to control humans, he desperately
-wants to retain his freedom. Even when Will discovers the truth, however,
-resistance remains a challenge. Will must conquer his fear of the Tripods, and consistently resist the easier option to submit. Throughout _The White Mountains_,
-Will faces human-made challenges in his struggle against the Tripods.
+John Christopher’s _The White Mountains_ (1967), highlights one boy’s struggle to resist his world’s norms. Thirteen-year-old Will Parker lives in a world where Tripods dominate the earth, and most people he knows seem at peace with this reality. People in Will’s life celebrate a Capping ceremony, where Tripods affix a metal cap to people’s skulls when they come of age. People happily talk about Capping ceremonies, but otherwise avoid discussions about the Tripods. When Will discovers that the Capping ceremony everyone goes through is a way for the Tripods to control humans, he desperately wants to retain his freedom. Even when Will discovers the truth, however, resistance remains a challenge. Will sometimes wonders if he should submit to the Tripods simply to have an easy, happy adulthood with the people he knows and loves. In order to make a more informed decision regarding what to do, Will wants to know more, but conversations about the Tripods remain taboo. While the Tripods remain Will Parker’s real enemy, his greatest challenge is to trust himself and behave differently than most people around him.
 
 # Challenge 1: Reject a celebrated rite of passage
 
-Will only slowly begins to question the Capping ceremony because people treat the event as an honor that everyone must experience. Will’s
-parents raise him to equate the Capping ceremony with “the mark of the adult,
-the ceremony itself solemn and linked in one’s mind with the holiday and the
-feast” (p. 34). Will’s parents teach him to accept the Capping ceremony as necessary for adulthood, and as an event that demands respect and gratitude. Will’s
-best friend and older cousin, Jack, undergoes the Capping before Will does. Will
-confesses that despite his suspicions, Jack’s Capping Day makes him feel that
-the event is a time for “...rejoicing and making merry. [Jack] was a man, and
-tomorrow would do a man’s work and get a man’s pay." Will admits, "I forgot my earlier fears,
-and envied [Jack], and thought how next year I would be there, a man myself” (p.
-18). Not only do Will’s parents endorse the Capping, but Will’s favorite older
-cousin ultimately supports the Capping as well. With so many people that he loves in
-favor of Capping, Will can’t help but feel the positivity around the event,
-and he feels compelled to participate in the rite of passage himself. When Will
-runs away to a completely new culture, he finds attitudes towards Capping that
-are similar to the ones in his own town. Will stays with a noble French family,
-and he observes that “For even more than their inferiors, they accepted and
-looked forward to being Capped. It was a part of becoming a knight, or of
-turning from girl to lady” (p. 120). In France, Capping not only turns children into adults, but also allows children to assume highly esteemed social positions.  If Will decides to remain uncapped, he goes
-against a tradition that most people value.
+Will only slowly begins to question the Capping ceremony because most people in his life treat the event as an honor that everyone must experience. Will’s parents raise him to equate the Capping ceremony with “the mark of the adult, the ceremony itself solemn and linked in one’s mind with the holiday and the feast” (p. 34). Will’s parents teach him to accept the Capping ceremony as a necessary event that facilitates a person’s transition from childhood to adulthood. The solemnity around the ceremony demands people’s respect, and the events that take place at the ceremony fill everyone with the feeling that the Capping ceremony is special and joyous. Will’s best friend and older cousin, Jack, undergoes the Capping before Will does. Will confesses that despite his suspicions, Jack’s Capping Day makes him feel that the event is a time for “...rejoicing and making merry. [Jack] was a man, and tomorrow would do a man’s work and get a man’s pay. I forgot my earlier fears, and envied [Jack], and thought how next year I would be there, a man myself” (p. 18). Not only do Will’s parents endorse the Capping, but Will’s favorite older cousin ultimately embraces Capping as well. With so many people that he loves in favor of Capping, Will can’t help but feel the positivity around the event, and he feels compelled to participate in the rite of passage himself. Will also wants to progress in society, and one day earn the work, pay, and respect of a man. He does not want to remain a boy forever. When Will runs away to a completely new culture, he finds attitudes towards Capping that are similar to the ones in his own town. Will comes to live with a noble family that he likes, and he observes that “For even more than their inferiors, they accepted and looked forward to being Capped. It was a part of becoming a knight, or of turning from girl to lady” (p. 120). In a completely new environment, Will again sees people that he likes celebrate Capping. In the new culture, the Capping seems even more important, as it facilitates not only the transition from child to adult, but from a child to a respectable position in society such as a knight or a lady. If Will decides to remain uncapped, he goes against a tradition that most people value.
 
-# Challenge 2: Ask questions and breaks taboos
+# Challenge 2: Resist the easy way
 
-Another challenge Will faces in his defiance against the Tripods is that
-information is difficult to obtain. When Will asks his cousin Jack to describe the
-Capping experience, Jack responds: “You know it’s not permitted to
-talk about that. But I can promise you that you won’t be hurt” (p. 18). Jack
-refuses to share details about his Capping, and tries to dismiss the topic with
-a simple reassurance. However, Capping does not work on everyone. Those people
-whose Capping goes wrong become “Vagrants,” or people that wander from place to
-place for the rest of their lives. The topic of Vagrants is also taboo. For
-Will, “What was known, though not discussed, was that the Vagrants were people
-for whom the Capping had proved a failure…Children, generally, viewed them with
-suspicion and avoided them” (p. 11 - 12). People avoid talk of the
-Vagrants, and the Vagrants themselves. People practice the same avoidance of the ancient cities, which remain from the time before the Tripods. Will explains: “I knew of the
-ruined great-cities of the ancients, of course. But these, too, were little
-talked of, and then with disapproval and a shade of dread. No one would dream of
-going near them” (p. 13). People regard conversations about the ancients as distasteful and even frightening. People also deem the spaces of
-the ancients as anathema, so firsthand knowledge remains limited. Capping, Vagrants, and the “the
-ancients,” are not suitable topics of conversation in Will’s society, which
-makes them difficult subjects to understand.
+In contrast to a life of fear, in opposition to the Tripods, lies a potential life of contentment, in submission to the Tripods. Will knows, “All my elders were Capped, and contended to be so” (p. 34). The Capped adults in Will’s life seem to live happy adulthoods. Throughout Will’s life, the “elders,” or respected adults he knows, model a peaceful lifestyle. Thus, Will sees not only the event of Capping, but also sees many adults who live good years after their Capping. When Will goes to live with another family in a different country, he observes: “They were Capped, they accepted the Tripods and all they stood for, but that did not prevent them from being, as I had seen in the Comte and Comtesse and Eloise and now in others, warmhearted, generous and brave. And happy” (p. 133). Will appreciates his life and the people around him at the chateau where he lives. The people at the chateau have so many wonderful qualities, and they serve as additional examples of Capped people who lead attractive lives. Will considers the benefits of a Capping for himself: “When the Cap was put on, the doubts vanished. How great a loss was that? Was it a loss at all? The Tripods, apart from the act of Capping itself, did not seem to interfere much with men” (p. 133). Will reasons that as a Capped person, he would no longer worry about the uncomfortable questions about life he often asks as an un-Capped person. He wonders if years of Capped, controlled contentment are better than years of life as an un-Capped, free person who lives as a fugitive in constant fear and hiding from the Tripods. The two communities of adults that Will sees both serve as examples of happily Capped adults. How to achieve an alternative adulthood, one that is un-Capped and fulfilling, remains less clear to Will.
 
-# Challenge 3: Overcome fear of the Tripods
+# Challenge 3: Confront taboos
 
-When Will learns the truth about the Tripods, his challenges really begin. He
-resolves to join a group of free people in the White Mountains, and evade
-Capping. When he runs away, he lives in constant fear of the Tripods. On land,
-the Tripods hunt him. He watches one Tripod rip up the earth’s vegetation in
-search of him. He relates: “I saw more bushes sail through the air, like confetti. You do
-not get used to fear, I thought; it grips you as firmly every time” (p. 193).
-The Tripods’ great size and strength intimidate Will, and he believes that they
-never become less frightening. While on a ship, Will sees, hears, and feels
-the Tripods crash by his vessel. Will realizes: “[The Tripods] dominated the
-sea, as well as land. If I had thought about it, I suppose, I would have assumed
-that. But I had not, and the reality depressed me” (p. 65). When Will sees how
-the Tripods traverse the sea with ease, he understands their vast reach. Aware of the far-reaching power of the Tripods, Will feels
-discouraged. He wonders if the fight against the tripods is futile. He worries:
-“The Tripods had conquered men when they were at the height of their power and
-magnificence...If our ancestors, with all their strength had failed, how pitiful
-was the defiance of a handful of men clinging to the slopes of barren mountains”
-(p. 135). Will doubts that humans can overcome the Tripods. Now as an enemy of
-the Tripods, Will fears for his life on land and water, and feels he might be on the losing side.
+As Will tries to make the decision whether to submit to the Tripods or continue to defy them, he struggles to obtain necessary information because so many topics are taboo. When Will asks his cousin, Jack, to describe his Capping experience, Jack responds: “You know it’s not permitted to talk about that. But I can promise you that you won’t be hurt” (p. 18). Jack refuses to share details about his own Capping. Jack defers to social norms even in a private conversation with his cousin. He tries to dismiss the topic with a simple reassurance. However, Capping does not work on everyone. Those people whose Capping goes wrong become “Vagrants,” or people that wander from place to place for the rest of their lives. The topic of Vagrants is also taboo. For Will, “What was known, though not discussed, was that the vagrants were people for whom the Capping had proved a failure…Children, generally, viewed them with suspicion and avoided them” (p. 11 - 12). Not only do people avoid talk of the Vagrants, they avoid the Vagrants themselves. People understand little about those whose Capping does not work, but still people fear and ostracize them. The same is true for “the ancients,” or the time period and people on earth before the Tripods. Will explains: “I knew of the ruined great-cities of the ancients, of course. But these, too, were little talked of, and then with disapproval and a shade of dread. No one would dream of going near them” (p. 13). People avoid conversations about the ancients because the topic is distasteful and even frightening. People also avoid the spaces of the ancients, which limits firsthand knowledge. Will explains that people keep even thoughts of the ancients out of their minds. Capping, Vagrants, and the ancients are all related to the Tripods and thus not suitable topics of conversation in Will’s society, which makes them difficult subjects to understand. 
 
-# Challenge 4: Resist the easy way
-
-In contrast to a life of fear in opposition to the Tripods, shines a potential life
-of contentment in submission to the Tripods. Will knows, “All my elders were
-Capped, and contended to be so” (p. 34). The Capped adults in Will’s life model
-a seemingly happy adulthood. The norm he learns throughout his childhood
-undoubtedly influences him. When Will comes to live with a family in France, in
-them he also sees that “They were Capped, they accepted the Tripods and all they
-stood for, but that did not prevent them from being, as I had seen in the Comte
-and Comtesse and Eloise and now in others, warmhearted, generous and brave. And
-happy” (p. 133). Will appreciates his life and the people around him at the
-chateau where he lives. The people at the chateau have many admirable
-qualities, and he wonders if being Capped is really so bad. He considers
-the benefits of being Capped: “When the Cap was put on, the doubts vanished. How
-great a loss was that? Was it a loss at all? The Tripods, apart from the act of
-Capping itself, did not seem to interfere much with men” (p. 133). Will understands
-that Caps dissolve all the uneasy questions about life.
-
-In order to be free, Will must reject a major celebratory norm in his culture,
-raise uncomfortable questions, bravely overcome his fear of the Tripods, and
-resist the easier alternative. Will wants to “live among men whose minds are
-their own, who do not accept the dominion of the Tripods” (p. 213). As _The
-White Mountains_ illustrates, however, to act upon beliefs can be an immense challenge.
+When Will Parker begins to suspect the Tripods, he learns that if he rejects the Tripods’ sovereignty, he also must reject the mainstream human society that accepts the Tripods. Thus, Will must not only defy the Tripods, he must go against his own culture’s norms as well. In order to be free, Will must reject a major celebratory custom in his culture - Capping. If the Tripods Cap Will, they can control him. Will wants to avoid Capping, but that goes against his community’s practices and expectations. If Will rejects Capping, he also sacrifices the adulthood that everyone expects of him, and that is familiar to him. As an un-Capped person, he faces ostracization and isolation. Before he can decide if he wants to resist Capping and a traditional adulthood, Will wants to become more informed, but facts are difficult to learn. Many of the most important topics are taboo, and even the people closest to Will are unwilling to help Will learn more. Will wants to “live among men whose minds are their own, who do not accept the dominion of the Tripods” (p. 213). As _The White Mountains_ illustrates, however, unconventional beliefs can be immensely challenging for individuals to enact. 
 
 ---
 References
