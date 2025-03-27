@@ -5,142 +5,36 @@ book_author: Philippe Girard
 categories: 16-18
 image: toussaint.webp
 ---
+In his 2016 biography, _Toussaint Louverture: A Revolutionary Life_, author Philippe Girard explains the challenges that Toussaint Louverture (1743-1803) must navigate to overthrow the slavery based society of Saint-Domingue. Toussaint Louverture lives on the western side of the island of Hispaniola, in the French colony of Saint-Domingue, or modern day Haiti. On the eastern side of the island, lies the Spanish colony of Santo Domingo, or the modern day Dominican Republic. Toussaint Louverture’s parents come from Africa, but he is born enslaved on the Breda family plantation of Haut-du-Cap, in French Saint-Domingue.  Although Louverture obtains his freedom sometime before the Haitian rebellion, the circumstances of Louverture’s manumission are unclear. Beginning in 1791, Louverture plays a lead role in the rebellion against the planter-enslavers on the island. In Toussaint Louverture: A Revolutionary Life, author Philippe Girard not only chronicles the life of the black man who leads the successful 18th century slave rebellion in Saint-Domingue. Girard shows how the complicated and deliberately divisive hierarchies of freedom, race, and culture (and the combinations of these hierarchies) within the oppressed community, make rebellion on the island such a difficult endeavor. 
 
-In his 2016 biography, _Toussaint Louverture: A Revolutionary Life_, author
-Philippe Girard discusses the challenges of the slavery based society that rebels such as
-Toussaint Louverture must navigate in 18th century Saint-Domingue (present day
-Haiti). Toussaint Louverture’s parents are from Africa, but he is born enslaved
-on the Breda family plantation of Haut-du-Cap, in the French colony of
-Saint-Domingue. Although he obtains his freedom sometime before the Haitian
-rebellion, the circumstances of Louverture’s manumission are unclear. Beginning
-in 1791, Louverture plays a lead role in the rebellion against the
-planter-enslavers on the island. Author Philippe Girard shows how the
-complicated and deliberately divisive hierarchies of freedom, race, and culture
-(and the combinations of these hierarchies) within the oppressed community, make
-revolution on the island such a difficult endeavor.
+# Free 
 
-# Free
-
-In Saint-Domingue, not all families of color are enslaved. Some families of
-color come from generations of free folk, possess inherited or accumulated
-wealth, and even enslave other people of color. Girard writes that these
-families often “...were not rebels…[they] wanted to get rich the same way every
-white Frenchman wanted to get rich: by buying and exploiting slaves” (p. 66). As
-some families of color have more opportunities than the enslaved people on the
-island, not all these families of color are inclined to support the rebellion.
-When the enslaved people in Saint-Domingue begin their rebellion in 1791, white
-planters are greatly outnumbered by the enslaved population. White planters
-turn to free people of color to help them. The white planters, “...struck an
-alliance with free men of color…[and] grudgingly granted free people of color
-the political rights they had been requesting since 1789 in exchange for their
-military assistance” (p. 116). In 1792, France declares that free people of
-color are equal to white people under French law, which incentivizes many free
-men of color even more to defend the white planters during the rebellion. The
-free people of color that have their freedom before the rebellion become the
-untrustworthy “formerly free,” people to the enslaved rebels who consider
-themselves the “newly free.”
+In 18th century Saint-Domingue, not all families of color live enslaved before the revolution. Some families of color come from generations of free folk, possess inherited or accumulated wealth, and even enslave other people of color. Girard describes the hierarchy of free people of color before the revolution: “Some came from families that had been free for several generations; others, including Louverture, had been freed during their own lifetimes, sometimes unofficially. Some had inherited plantations…Louverture and others owned little or nothing. A member of the plantation elite when he was a slave, Louverture now found himself at the lowest rung of the free community” (p. 56). Girard highlights the diversity within the community of free people of color. Some free people of color do not have firsthand experience with slavery. Others own property and wealth that enables them to successfully participate in the colony’s economy. The long-time free, property owning people of color in Saint Domingue have much to lose. If they align themselves with Toussaint Louverture, someone further down the social hierarchy than they are, they risk the loss of their property whether he successfully overturns their society or not. Girard writes that free families of color often “...were not rebels…[they] wanted to get rich the same way every white Frenchman wanted to get rich: by buying and exploiting slaves” (p. 66). As some families of color have more opportunities than the enslaved people on the island, not all these families of color feel inclined to support the rebellion. They prefer to participate in society the way they can. When the Saint-Domingue rebellion begins in 1791, white planters are greatly outnumbered by the enslaved population. White planters turn to free people of color to help them. The white planters, “...struck an alliance with free men of color…[and] grudgingly granted free people of color the political rights they had been requesting since 1789 in exchange for their military assistance” (p. 116). White enslavers are able to offer the free men of color more immediate benefits than the rebel people of color are. France declares that free people of color are equal to white people under French law, which incentivizes many free men of color even more to defend the white planters during the rebellion. The free people of color that have their freedom before the rebellion, or the “formerly free” people, feel more of a compulsion to side with powerful whites, and become objects of distrust for enslaved people of color.
 
 # Maroon
 
-Other people of color in Saint-Domingue are not legally liberated, but live
-in fugitive communities. Girard writes, “Short of outright revolt, the most
-effective form of resistance was to become a maroon, a term derived from the
-Spanish word for a wild animal (cimarron) that was used to describe slave
-runaways” (p. 37). Some people who escape live permanently on independent
-settlements. Others leave only temporarily, as a strike, until the plantation
-owners or managers meet some term. As Girard explains of the enslaved people:
+Other people of color in Saint-Domingue are not legally liberated, but escape to fugitive communities. Girard writes, “Short of outright revolt, the most effective form of resistance was to become a maroon, a term derived from the Spanish word for a wild animal (cimarron) that was used to describe slave runaways…[some] joined autonomous maroon communities in Saint-Domingue’s interior, or, more frequently, crossed the border into Santo Domingo (now the Dominican Republic) to claim asylum” (p. 38). Some enslaved people in Saint Domingue run away from their enslavers and live permanently on hidden, independent settlements. They are able to survive but cannot participate in Saint Domingue society the way legally free people of color can. Other enslaved people that escape leave the colony of Saint Domingue entirely when they flee to the Spanish territory of Santo Domingo to the east. Still others are less elusive, perhaps, but do not have confidence in the prospect of a complete overhaul of society. As Girard explains, some enslaved people who run away leave only temporarily, as a strike, until the plantation owners or managers meet some term. As Girard elucidates of these enslaved people:
 
+They hailed from a world in which slavery was an established part of life on both sides of the Atlantic, so imagining that free labor could be the norm would have required a complete change of paradigm. In Haut-du-Cap, slaves did not flee their plantations to bring slavery to its knees - a ludicrous and even unthinkable idea at the time - but to protest excessive punishments or the lack of food. They then returned to work after they had obtained what they sought. p. 39.
 
-> They hailed from a world in which slavery was an established part of life on
-> both sides of the Atlantic, so imagining that free labor could be the norm
-> would have required a complete change of paradigm. In Haut-du-Cap, slaves
-> did not flee their plantations to bring slavery to its knees - a ludicrous
-> and even unthinkable idea at the time - but to protest excessive punishments
-> or the lack of food. They then returned to work after they had obtained what
-> they sought. p. 39.
-
-The “maroons” that live in various communities around the island are accustomed
-to smaller-scale negotiations with plantation owners and managers. They have
-their own agendas, and usually make what they believe to be reasonable demands
-regarding their working conditions. At the outbreak of the Haitian revolution, a
-complete overthrow of the system seems unlikely. Not all fugitive community
-members want to align with such a drastic rebellion.
+Many of the “maroons” that live in various communities in Saint-Domingue are accustomed to smaller-scale negotiations with plantation owners and managers. They have their own agendas, and usually make what they believe to be reasonable demands regarding their working conditions. At the outbreak of the Haitian revolution, a complete overthrow of the system seems unlikely. Not all fugitive community members want to align with such a drastic rebellion. Furthermore, the “maroons” who manage to escape have reason to distrust other people of color. Girard claims, “in the eighteenth century, independent black communities in border areas had often agreed to return runaways to their French and Spanish owners in exchange for pacts of nonaggression” (p. 123). The enslaved people who run away cannot always depend on other people of color to help them. Various groups of people of color do what they can to protect themselves, which sometimes includes deal-making with whites at the expense of other people of color. The desire of the “maroons” to disappear, or make small deals with white enslavers, and their fear of other people of color may rationalize a skepticism for a large-scale rebellion.
 
 # Mixed-Race
 
-Along with white and black people, 18th century Saint-Domingue harbors
-mixed-race people of various racial backgrounds. Regarding the people of color
-on the island: “Some were the mixed-race descendants of white colonists whose
-skin color was described by a rich racial vocabulary, ranging from mulâtre
-(mulatto) to quarteron (quadroon) and métif (octoroon)...” (p. 56). The term
-“mulatto” refers to a person with one black parent and one white parent, while
-“quadroon,” indicates a person who has one black grandparent and three white
-grandparents. An “octoroon,” means someone with one black great-grandparent and
-seven white great-grandparents. In the decades before the Saint-Domingue
-rebellion, French authorities begin to require a person’s precise racial
-background to appear on legal documents. On the basis of race, authorities deny
-people of color social options. The stoked divisions among the racial groups
-continue during the rebellion years. Factions of mixed-race, white, or black
-people change allegiances and struggle for control of the colony. Girard writes
-that of the: “Mixed-race officers like Rigaud, [white] French administrators
-like Laveaux, the [black] “newly free” majority - who would prevail was an open
-question” (p. 165). The emergence of black factions and mixed-race factions reflects the mistrut, instead of unification on the basis of race, among the people of color on the island.
+Along with white and black people, 18th century Saint-Domingue harbors mixed-race people of various racial backgrounds. In the decades before the Saint-Domingue rebellion, French authorities begin to require a person’s precise racial background to appear on legal documents. On the basis of race, authorities deny people of color social options. “Racism so permeated society that people of color, instead of rejecting its underlying principles, made it their own. Mulattoes and quadroons resented being excluded by whites, but they kept their distance with black freedmen like Louverture…” (p. 68). The term “mulatto” refers to a person with one black parent and one white parent, while “quadroon” indicates a person who has one black grandparent and three white grandparents. (An “octoroon” identifies someone with one black great-grandparent and seven white great-grandparents, and the terms go on). Everyone in 18th century Saint Domingue was subject to scrutiny, and individuals try to avoid any connection to blackness. One Saint-Domingue sugar planter, Pierre Chapuizet, becomes the object of investigation when another white man makes accusations of a non-white ancestor. Girard explains of the legal case: “[Pierre] Chapuizet’s great-great-great-grandmother was apparently an African slave, but one’s racial background had been less important in the early 1700s, so many legal documents had failed to mention his mixed ancestry…Suits and countersuits flew back and forth until July 1779, when the appeals court in Cap affirmed that Chapuizet was legally white…” (p. 67). As the Chapuizet case illustrates, no one in the colony is above racial inquiry. Individuals must identify as much as possible with whiteness in order to fully participate in society. Mixed-race people who can “pass,” or make society believe that they are white, are safer and have more options than people of color. The stoked divisions among the racial groups continue during the rebellion years. At the time of the rebellion in Saint Domingue, factions of mixed-race, white, and black people change allegiances and struggle for control of the colony. Girard writes that of the: “Mixed-race officers like Rigaud, [white] French administrators like Laveaux, the [black] “newly free” majority - who would prevail was an open question” (p. 165). Girard shows how a mixed-race group manifests because there is a significant number of people in the colony that does not want to identify as black, but cannot pass as white. These mixed-race people band together to secure their own interests. As a black man, Louverture leads his own group, and continuously tries to win people over from different groups. As mistrust remains high between different groups, Louverture must emphasize what the various groups have in common. 
 
-# African-born
+# African-born 
 
-Girard explains that in Saint-Domingue, the majority of enslaved people are from
-Africa. Wealthy French men view the colony as a place to have a business, not as
-a place to make home. Thus, the French population remains small, while the
-enslaved population continues to grow. With the island’s demand for labor, a low
-birth rate and high death rate (life expectancy on the Breda plantations is
-thirty-seven), Saint-Domingue planters increase the number of people they
-enslave from Africa. The number of enslaved people from Africa eventually totals
-more than 900,000. Girard points out that “Sixty-four percent of Haut-du-Cap’s
-slaves were African-born by 1785...As a result, many of the slaves of
-Haut-du-Cap had only been in Saint-Domingue for a few years by the time the
-Haitian Revolution began in 1791” (p. 49). The majority of enslaved people that
-fight for freedom do so on foreign land, among foreign people (Europeans,
-Carribbeans, and people from different African communities), and among foreign
-languages and customs. Stratified Saint-Domingue society pushes African culture
-and people to the bottom. Girard claims of the cultural hierarchy: “The chain of
-contempt ended with the newly imported slaves, the bossales, a term derived from
-the Spanish _bozales_ (muzzled, or shackled), but that was often rendered in
-French as _peau sale_ (dirty skin)” (p. 68). Before the revolution, the
-African-born people are the furthest from full participation in society and have
-the fewest privileges. This most brutalized group of people must provide the most man power for the rebellion.
+Girard explains that in Saint-Domingue, the majority of people - unlike native born Toussaint Louverture - come to the colony from Africa. Wealthy French men view the colony as a place to have a business, not as a place to make home. Thus, the French population remains small, while the enslaved population continues to grow. With the island’s demand for labor, a low birth rate and high death rate (life expectancy on the Breda plantations is thirty-seven), Saint-Domingue planters increase the number of people they bring to the colony from Africa. Girard describes the experience of a newly arrived African person: “Transitioning to a Caribbean environment - a process known as ‘seasoning’ in planter lingo - was hard for African-born slaves. They had to adapt to a new trade, new food, and new people speaking French, unfamiliar tongues from other regions of Africa, and the local Kreyòl pidgin. Ethnic identities, already in flux on the coast of Africa as a result of the disruptions caused by the slave trade, were reshuffled once more.” (p. 15). African-born people that suddenly find themselves on a new continent become vulnerable in their strange surroundings. Not only do African-born people face the French and Kreyòl languages of the people in power, but they also face other African languages that their fellow enslaved people speak. Although they are all cast down to the lowest and most reviled social class in the colony, the newly arrived Africans come from different social classes and societies in Africa, they are not a homogenous, cohesive group. Girard points out that “Sixty-four percent of Haut-du-Cap’s slaves were African-born by 1785...As a result, many of the slaves of Haut-du-Cap had only been in Saint-Domingue for a few years by the time the Haitian Revolution began in 1791” (p. 49). The enslaved African majority that fights for freedom does so on foreign land, among foreign people (Europeans, Carribbeans, and people from different African communities), and among foreign languages and customs. The fighting force of Haut-du-Cap and their leader, Toussaint Louverture, do not have the luxury of a long standing camaraderie. Stratified Saint-Domingue society pushes African culture and people to the bottom. Girard claims of the cultural hierarchy: “The chain of contempt ended with the newly imported slaves, the bossales, a term derived from the Spanish bozales (muzzled, or shackled), but that was often rendered in French as peau sale (dirty skin)” (p. 68). Before the revolution, the African-born people are the furthest from full participation in society and have the fewest privileges. As a Caribbean-born man, Toussaint Louverture must find a way to gain the trust of the African people.
 
-# Caribbean-born
+# Caribbean-born 
 
-Only about a third of the enslaved population in the colony are Creole (born in
-Saint-Domingue), like Louverture. Girard writes: “Surrounded by African-born slaves forcibly
-brought to Saint-Domingue and European planters longing for France, Creoles
-(Caribbean natives) like Louverture came to think of themselves as the only true
-‘Americans’” (p. 26). Influenced by Africa, Europe, and the
-Caribbean, the Saint-Domingue Creoles develop their own language (Haitian
-Creole), and culture. Creoles also differ from Africans in the jobs that the
-enslavers generally allow them to occupy on the plantations. In wake of the
-rebellion, African-born people wonder if rebel Creole leaders like Louverture seek to
-abolish slavery on the island or if they simply intend to take the places of the
-white men. The mistrust reflects “...the rivalries that had pitted African born
-field hands against Caribbean-born skilled workers on prerevolutionary
-plantations. The African-born freedmen...had the nagging suspicion that the
-creole elite and the formerly free had used them…” (p. 198). The preferential treatment of the Creoles by the European planters creates a division between the Creole and African-born enslaved people that persists during and after the rebellion.
+Only about a third of the enslaved population in the colony are Creole (born in Saint-Domingue), like Louverture. Influenced by Africa, Europe, and the Caribbean, the Saint-Domingue Creoles develop their own language (Haitian Creole), and culture. Girard writes: “Surrounded by African-born slaves forcibly brought to Saint-Domingue and European planters longing for France, Creoles (Caribbean natives) like Louverture came to think of themselves as the only true ‘Americans’” (p. 26). Creole people of color view themselves as a distinct social group in Saint Domingue. Unlike the newly arrived African people of color, they do not mourn past lives. For Creoles, Saint Domingue is their homeland, and the languages, religions, and politics in the colony are familiar to them. Creoles also differ from Africans in the jobs that the enslavers generally allow them to occupy on the plantations. When rebellion breaks out, African-born people wonder if rebel leaders like Louverture seek to abolish slavery on the island or if they simply intend to take the places of the white men. At the time of the rebellion, “The social struggle that emerged was in many ways a reprise of the rivalries that had pitted African-born field hands against Caribbean-born skilled workers on prerevolutionary plantations. The African-born freedmen who formed the vast majority of the plantation workforce had the nagging suspicion that the creole elite and the formerly free had used them as a ‘stepping stone’ and hijacked the slave revolt for their own purposes” (p. 198). The African-born enslaved people endure the hardest work, while Caribbean-born enslaved people may train for more specialized trades that spare them from back breaking work in the sun. White planters foster these differences especially so resentment grows between the African-born and Caribbean-born plantation workers. The animosity between the two groups, the planters believe, keeps the planters safe from a collective uprising. Girard points out that for Touissant Louverture, “...his privileged position as a creole slave spared him from the worst abuses. Slavery, as filtered through his personal experience, must have been less traumatic for him than it was for African-born field hands. This, or perhaps the terrorizing effect of the tortures he had witnessed, may explain why he played no apparent role in the first major labor disturbances that roiled the region of Cap from the 1750s” (p. 32). Louverture himself perhaps weighs the benefits and drawbacks of a rebellion in regards to his own life. 
 
-Philippe Girard highlights the social nuances of Saint-Domingue in order to show
-that when the rebellion commences, the conflict is not simply between the
-minority rich, white, enslavers and a unified majority of enslaved, black
-people; a simple binary that favors the oppressed does not exist. Girard
-explains that French practices on the island before the rebellion create
-deliberate hierarchies that divide the majority of disenfranchised people of
-color into subgroups. The hierarchies of privilege complicate
-a unified resistance against the European planters. Some free people of color
-stand to gain if they side with French planters during the rebellion. Other
-“runaway” people of color risk their small victories if they join a rebellion
-that fails. Furthermore, people of color with disparate racial backgrounds, and
-African-born and Creole people must overcome the French-imposed animosity
-amongst themselves.
+As Philippe Girard highlights Toussaint Louverture’s leadership in the fight for Saint Domingue, he reveals the social nuances of Saint-Domingue. The conflict in the colony is more complicated than a battle between a rich white enslaving minority and an enslaved black majority. A simple binary that favors the oppressed does not exist. Girard explains that French practices on the island before the rebellion create deliberate hierarchies that divide the disenfranchised majority. The hierarchies of privilege, race, and culture makes a unified resistance against the oppressors difficult. Many free people of color worry that they may lose what they already have if they side with the rebels. Free people of color that own property have an interest in Saint Domingue society the way it exists. During the rebellion, many free people of color believe that property-owning whites have more to offer them than the rebels. Other “runaway” people of color risk their small victories if they join a rebellion that fails. They prefer to flee and hide than to fight a system they believe is impossible to change, alongside people of color they do not trust. Mixed-race people of color also must consider even less acceptance than they have if they rebel. African-born and Creole people must overcome the French-imposed animosity amongst themselves. Because of the various sub-groups of people of color in Saint-Domingue, Philippe Girard illustrates the marvel of their successful assembly and revolution.
 
-[Listen to Professor Girard explain the Haitain Revolution](https://www.c-span.org/video/?451340-1/toussaint-louverture)
+
+[Listen to Professor Girard explain the Haitian Revolution](https://www.c-span.org/video/?451340-1/toussaint-louverture)
 
 ---
 References
