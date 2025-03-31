@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  _Victor the Egoistic Monster_
+title:  Victor the Egoistic Monster
 book_author: Mary Shelley
 date:   2023-05-02 10:00:00 +0700
 categories: 16-18
