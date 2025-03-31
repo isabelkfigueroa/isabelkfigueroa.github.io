@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _Holden's Search for Connection_
+title: Holden's Search for Connection
 book_author: J.D. Salinger
 categories: 16-18
 image: catcher-in-the-rye.webp
