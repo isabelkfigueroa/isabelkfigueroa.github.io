@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _The Education of Tim Meeker_
+title: The Education of Tim Meeker
 book_author: Christopher Collier & James Lincoln Collier
 categories: 10-12
 image: my-brother-sam-is-dead.jpg
