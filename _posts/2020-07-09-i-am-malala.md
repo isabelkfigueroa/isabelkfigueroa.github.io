@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _Malala Reveals Enduring Inequalities in Pakistan_
+title: Malala Reveals Enduring Inequalities in Pakistan
 book_author: Malala Yousafzai and Christina Lamb
 categories: 13-15
 image: i_am_malala.jpg
