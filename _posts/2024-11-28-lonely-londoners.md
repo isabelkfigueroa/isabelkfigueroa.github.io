@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Lonely Londoners
+title: The Many Forms of Disparagement Towards Sam Selvon's Lonely Londoners
 book_author: Sam Selvon
 categories: 18+
 image: lonely-londoners.jpg
