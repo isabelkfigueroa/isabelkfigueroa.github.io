@@ -4,6 +4,7 @@ title: Malcolm X and Judy Heumann Learn to Demand Justice
 book_author: Malcolm X and Judy Heumann
 categories: 18+
 image: malcolm-x-and-judy-heumann.jpg
+published: false
 ---
 
 Both Malcolm X (b. 1925) and Judy Heumann (b. 1947), grow up in a country that
