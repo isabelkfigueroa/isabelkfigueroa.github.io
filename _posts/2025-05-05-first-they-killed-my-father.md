@@ -114,7 +114,7 @@ actions that can offer support. When Luong finds herself near a boy who loses
 family members, she thinks: “My heart leaps for him. I want to reach out to
 him, but instead I turn and walk away. He is alone now too” (p. 199). Luong
 also experiences the loss of family members during the reign of the Khmer
-Rouge. She empathizes completely with the boy. She *wants *to comfort him.
+Rouge. She empathizes completely with the boy. She *wants*to comfort him.
 However, she feels that regardless of their shared experience, she has nothing
 to offer the boy. Luong’s sentiment causes her to forgo contact with the boy
 and also contributes to her sense of helplessness and worthlessness. The
