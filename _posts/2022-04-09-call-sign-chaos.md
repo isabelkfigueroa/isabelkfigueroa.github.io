@@ -4,7 +4,7 @@ title: How Ender Wiggin Exhibits U.S. General Jim Mattis’s Prefered Leadership
 book_author: Jim Mattis
 categories: 18+
 image: call-sign-chaos.webp
-publish: false
+published: false
 ---
 
 Retired U.S. General Jim Mattis’s memoir, _Call Sign Chaos_ (2019), and Orson
