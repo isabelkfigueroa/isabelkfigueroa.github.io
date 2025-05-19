@@ -1,12 +1,11 @@
 ---
 layout: post
-title: First They Killed My Father
+title: The Isolation Caused by the Khmer Rouge
 book_author: Luong Ung
 categories: 18+
 image: first-they-killed-my-father.jpg
 published: true
 ---
-# The Isolation Caused by the Khmer Rouge
 
 Luong Ung’s memoir, *First They Killed My Father* (2000), recounts a young
 girl’s experience as the Communist Khmer Rouge regime overturns Cambodia in the
