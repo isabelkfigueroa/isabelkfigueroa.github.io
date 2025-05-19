@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Color Me Dark
+title: The Love Family’s Proactive Approach
 book_author: Patricia McKissack
 categories: 10-12
 image: color-me-dark.jpg
 published: true
 ---
-# The Love Family’s Proactive Approach to the Challenges of 20th Century America
 
 Patricia McKissack’s novel, _Color Me Dark_ (2000), exhibits the exemplary
 civic engagement of one American family. The Love family, which includes Mr.
