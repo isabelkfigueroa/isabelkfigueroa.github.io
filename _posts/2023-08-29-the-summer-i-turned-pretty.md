@@ -4,6 +4,7 @@ title: A Model Friendship
 book_author: Jenny Han
 categories: 16-18
 image: the-summer-i-turned-pretty.jpg
+published: false
 ---
 
 Jenny Han’s 2009 novel, _The Summer I Turned Pretty_, illustrates how two very
