@@ -173,4 +173,4 @@ America.
 ---
 References
 
-McKissack, P. (2000). _Color Me Dark_. Scholastic Inc.
+McKissack, P. (2000). _Color me dark_. Scholastic Inc.
