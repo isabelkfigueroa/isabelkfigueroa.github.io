@@ -22,6 +22,7 @@ The jealousy and negative feelings that Belly develops for Taylor causes Belly t
 
 The summer Belly turns fourteen, Belly allows her problems with Taylor to grow. Belly’s undesirable behavior begins with her jealousy towards Taylor. Belly’s first mistake is to designate Taylor as the pretty friend. The image of Taylor that Belly creates in her mind, of Taylor as the inherently more attractive friend, affects the rest of their relationship. In her mind, Belly puts her friend and herself at odds. Belly’s jealousy causes her to view Taylor as a competitor. She resents Taylor’s new clothes and feels suspicious that Taylor will steal Conrad and Jeremiah away from her. Because Belly feels threatened by Taylor’s beauty, her clothing, and her interactions with others, Belly begins to judge Taylor harshly. Belly’s jealous feelings make her think unkind thoughts about Taylor and to make unkind comments about her. Belly expresses her dissatisfaction with Taylor to her mother, and makes disparaging accusations of her to Jeremiah. Belly hides all of these negative feelings from Taylor, which gives Taylor no chance to help ease the negativity. In order to improve her friendship with Taylor, Belly must learn how to behave with more empathy.
 
+---
 References
 
 Han, J. (2009). _The summer I turned pretty_. Simon and Schuster.
