@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Summer She Turned Mean
+title: The Summer She Turned Callous
 book_author: Jenny Han
 categories: 13-15
 image: the-summer-i-turned-pretty.jpg
