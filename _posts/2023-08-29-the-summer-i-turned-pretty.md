@@ -4,7 +4,6 @@ title: The Summer She Turned Mean
 book_author: Jenny Han
 categories: 13-15
 image: the-summer-i-turned-pretty.jpg
-published: false
 ---
 
 In Jenny Han’s 2009 novel, _The Summer I Turned Pretty_, Belly Conklin struggles to be a good friend. Although Belly claims that Taylor Jewel is her best friend (p. 9), Belly repeatedly exhibits unhealthy feelings and behaviors towards Taylor. Belly’s destructive approach to her friendship with Taylor comes to light the summer when Taylor visits Belly in Cousins Beach for the first time. Belly, her mother, and her brother, go to the beach every summer with the Fisher family, and Belly harbors complicated feelings for the brothers Conrad and Jeremiah Fisher. When Taylor comes into this context, Belly’s insecurities flare. Belly does not like the meeting between Taylor and the brothers, Conrad and Jeremiah. Belly’s insecurities manifest as jealousy, unkindness, and dishonesty, and Taylor Jewel becomes the biggest victim of them all. 
