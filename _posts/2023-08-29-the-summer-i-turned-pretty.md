@@ -1,132 +1,29 @@
 ---
 layout: post
-title: A Model Friendship
+title: The Summer She Turned Mean
 book_author: Jenny Han
-categories: 16-18
+categories: 13-15
 image: the-summer-i-turned-pretty.jpg
 published: false
 ---
 
-Jenny Han’s 2009 novel, _The Summer I Turned Pretty_, illustrates how two very
-different people can be best friends. Laurel Dunne, mother of Steven and Isabel
-(Belly) Conklin, and Susannah Fisher, mother of Conrad and Jeremiah Fisher, have
-the type of friendship that their children admire. Isabel Conklin thinks of
-Laurel and Susannah, “I envied their relationship. They were exactly like
-copilots, in perfect balance. [They had] the forever kind of friendship that
-will last your whole life through, no matter what” (p. 84). Friends since the
-age of nine, Laurel and Susannah choose to spend every summer with each other
-and the four children at the Fishers’ beach house. Throughout the story, the
-women’s strong bond, but also their stark differences become clear. Laurel and
-Susannah’s different approaches to daily life, their marriages, and children,
-show to Conrad, Jeremiah, Steven, and Isabel, that there is no one right way to
-be.
+In Jenny Han’s 2009 novel, _The Summer I Turned Pretty_, Belly Conklin struggles to be a good friend. Although Belly claims that Taylor Jewel is her best friend (p. 9), Belly repeatedly exhibits unhealthy feelings and behaviors towards Taylor. Belly’s destructive approach to her friendship with Taylor comes to light the summer when Taylor visits Belly in Cousins Beach for the first time. Belly, her mother, and her brother, go to the beach every summer with the Fisher family, and Belly harbors complicated feelings for the brothers Conrad and Jeremiah Fisher. When Taylor comes into this context, Belly’s insecurities flare. Belly does not like the meeting between Taylor and the brothers, Conrad and Jeremiah. Belly’s insecurities manifest as jealousy, unkindness, and dishonesty, and Taylor Jewel becomes the biggest victim of them all. 
 
-# Behavior
+# Jealousy
 
-At the beach house, the children witness Laurel and Susannah’s different
-behaviors in the home. Isabel notices: “When my mother cooked, it was always
-some sort of seafood with lemon and olive oil and a vegetable. Every time” (p.
-87). Isabel says, “always” and “every time” to highlight Laurel’s
-predictability. When Laurel cooks, she prepares a healthy protein and vegetable.
-Isabel describes Susannah differently. Isabel observes: “Susannah only cooked
-every once in a while…you never knew what you were going to get. She might spend
-the whole whole afternoon puttering around the kitchen, making something I’d
-never had before, like Moroccan chicken with figs…Or she might make American
-cheese omelets with ketchup and toast” (p. 87). As predictable as Laurel’s
-cooking is, the children can never guess what Susannah will make. Susannah cooks
-on one end of the culinary spectrum or the other. Her meals are either
-international and gourmet or comically simple. One night at the dinner table,
-Steven claims casually that they live in a free country. Laurel considers her
-son’s words carefully, and responds: “Is it a free country? I want you to really
-think about that statement, Steven. What about our civil liberties? Are we
-really free if -” (p. 90). Laurel questions Steven, and challenges him to think
-more deeply. She steers the direction of the conversation towards the government
-and justice. Susannah interrupts Laurel, and requests that they not talk
-politics at the dinner table (p. 90). The moment shows Laurel’s tendency to
-start more serious conversation, and Susannah’s preference for lighter quality
-time. The day before they leave the beach, Laurel, Susannah, and the children
-begin to clean the house. Isabel reveals: “What [Laurel] didn’t know was that
-Susannah had cleaners come in after we left and before we came back…It was like
-a secret between us, and I liked that. My mother actually liked to clean and
-didn’t believe in housekeepers or maids or in other people doing what she
-considered our work” (p. 266). Susannah likes to hire people to clean, while
-Laurel believes that the family should clean their own space. The women disagree
-so strongly on the topic that Susannah does not tell Laurel about the hired
-cleaners. In the house with Laurel and Susannah, the children see different
-approaches to meals, conversation, and housekeeping.
+Belly claims: “Taylor was always the pretty one, the one the boys looked at for that extra beat. I was the funny one, the one who made the boys laugh. I thought that by bringing her I’d be proving that I was a pretty one too” (p. 66). Belly labels Taylor and labels herself. No one else calls Taylor, “the pretty one,” and Belly “the funny one,” and none of the situations Belly relates suggests that anyone feels this way. Belly judges her friend and herself and creates labels that hurt both girls. Belly labels Taylor “the pretty one,” which not only others her, but puts her in an enviable position. When Belly invites Taylor to Cousins Beach for a week, she does so in hopes to gain something from her proximity to Taylor. Belly feels jealous of Taylor because of a label she herself assigns Taylor. When Taylor arrives at Cousins Beach, Belly remembers: “[Taylor] walked off the plane in a pair of short shorts and a tank top I’d never seen before. Hugging her, I tried not to sound jealous…” (p. 67). When Belly sees her friends arrive in Cousins Beach, the first emotion Belly feels is jealousy. She notices the clothes Taylor wears because they are unlike the clothes she chooses to wear. She feels that Taylor’s clothes attract more attention from boys. Belly also notices the clothes because they are new. When Belly introduces Taylor to Conrad and Jeremiah Fisher, she worries that Taylow will begin to like and flirt with one of them. Belly complains, “...whichever guy she picked would feel like a leftover…I would be jealous if she picked Jeremiah too, because he was my friend, not hers” (p. 73). Belly does not want Taylor to flirt with either Conrad or Jeremiah because she wants them both for herself. She admits that Taylor’s feelings about them will influence her own feelings about them, which illustrates Belly’s focus on Taylor’s decisions and actions. Ultimately, Belly does not feel happy to introduce Taylor to Conrad and Jeremia. Belly feels jealous of Taylor’s appearance, her clothes, and her relationships (whether they are imagined or real).
 
-# Everyday Life
+# Unkindness
 
-Although both marriages end in divorce, Laurel and Susannah make different
-choices as wives. One summer, a young Jeremiah asks what a maiden name is, and
-why a lady has to change her name when she marries. Laurel answers Jeremiah,
-“She doesn’t. I didn’t. My name is Laurel Dunne, same as the day I was born.
-Nice, huh? After all, why should a woman have to change her name for a man? She
-shouldn’t” (p. 43). Laurel keeps her maiden name after she marries. She explains
-to Jeremiah that women are not required to change their names after marriage.
-Susannah, on the other hand, makes the more traditional choice, and changes her
-last name to match her husband’s last name. She goes from Susannah Beck to
-Susannah Fisher after she marries Adam Fisher. Isabel relates that when Adam
-Fisher comes to the beach house, “Susannah would fix his favorite drink and have
-it ready, ginger and Maker’s Mark. My mother teased her for waiting on him, but
-Susannah didn’t mind” (p. 47). Isabel notices that Susannah likes to have nice
-things ready for Adam when he arrives, while Laurel thinks that Susannah behaves
-like a waitress when she does that. Laurel and Susannah also differ in the
-emotions they reveal. Isabel says of Laurel’s divorce:  “I wasn’t sure if it was
-that she fell out of love or if it was that she just never was. In love, I mean”
-(pp. 50-51). Isabel isn’t sure of her mother’s feelings. However, Susannah’s
-divorce completely surprises Isabel. Isabel thinks, “Whatever love was, I was
-sure [Susannah and Adam] had it. I thought they had it a million times over. The
-way they gazed at each other at the dinner table, how excited Susannah got when
-he came to the summer house…” (p. 165). Isabel is uncertain about her mother’s
-relationship, but she thinks she has a clear understanding of Susannah’s
-relationship because Susannah shows more evidence of love. Isabel sees Susannah
-and Adam’s shared, loving looks, and sees Susannah’s excitement about Adam.
-Unlike Laurel, Susannah changes her last name, likes to perform acts of service,
-and publicly displays her affection towards her husband.
+Belly’s jealousy of Taylor negatively affects the way she thinks and talks about Taylor. Just after Belly introduces Taylor to Conrad and Jeremiah, Belly tries to reason why Taylor is not a good match for Conrad. Belly thinks that Conrad is serious and that, “[Taylor] was about as deep as an inflatable kiddie pool” (p. 70). Belly’s characterization of Taylor infantilizes and even dehumanizes Taylor. At one point during Taylor’s visit to Cousins Beach, Laurel asks Belly where Taylor is, and Belly replies, “Who knows?...Who cares?...I'm just starting to wish I hadn’t brung her, is all” (p. 180). Belly tells her mother that she knows nothing of Taylor’s whereabouts, and does not care. Belly suggests that no one cares. Belly tells her mother she is not happy that Taylor is there with them. Years after Taylor’s first visit to Cousins Beach, Jeremiah muses about the type of girl he likes. Belly tells Jeremiah, “You liked Taylor, and she’s not like that…I’m just saying. She wasn’t that smart and confident” (p. 81). First, Belly tries to make Jeremiah feel badly for the positive attention he gives Taylor. In her effort to shame Jeremiah, Belly makes Taylor the object of shame. As Belly teases Jeremiah, she talks badly about Taylor. Belly suggests that Taylor is stupid and insecure. To herself, her mother, and Jeremiah, Belly questions Taylor’s depth, worth, intelligence, and confidence.
 
-# Children
+# Dishonesty
 
-As mothers, Laurel and Susannah have some different views on parenting. Isabel
-shares: “After the summer was over, when I got back home, I went to the music
-store and bought the sheet music and learned to play [Pearl Jam] on the
-piano…Susannah tried to get [a piano] for the summer house, so I could practice,
-but my mother wouldn’t let her” (p. 35). Susannah wants to buy anything she can
-to support Isabel’s interests. However, Laurel thinks a piano at the beach house
-is too much. Although both women want to support Isabel, Laurel thinks more
-about costs and practicality. The night before they leave the beach, the two
-families eat all the food in the refrigerator. Conrad complains that a rib on
-his plate has mold, so Laurel tells him to give it to her. Laurel says, “I swear
-you spoil these boys, Beck…Belly was raised on leftovers, weren’t you, bean?”
-(p. 267). Beck answers, “I do spoil them…They’re angels. Why shouldn’t I?” (p.
-268). Laurel thinks that Conrad should simply scrape the mold off the rib and
-eat it anyway. She thinks that Conrad and Jeremiah are spoiled, and unaccustomed
-to leftovers. Laurel claims that her own children eat leftovers all the time.
-The women also differ in their affection towards the children. Isabel says:
-“[Susannah] touched my hair lightly, which I loved. Susannah was much more
-affectionate than my mother in those kinds of ways” (p. 56). Susannah offers the
-children physical affection in a way that Laurel usually does not. Laurel and
-Susannah differ in terms of what they feel happy to buy for the children, what
-they expect from the children, and the way they show their affection.
+The jealousy and negative feelings that Belly develops for Taylor causes Belly to often hide her true thoughts from Taylor. Regarding graduation, Taylor tells Belly she would like them to visit Cabo together. Belly does not tell Taylor what she would like to do for graduation. Belly relates, “I wanted to go to the Galápagos Islands for graduation, that was my dream. I wanted to see a blue-footed booby. My dad said he’d take me too. I didn’t tell Taylor, though. She wouldn’t like it” (p. 66). Taylor shares her thoughts about a graduation trip with Belly, but Belly does not share her thoughts with Taylor. Belly’s choice not to mention her interest in the Galápagos Islands reveals how she withholds even the most benign information from Taylor. Belly predicts Taylor’s reactions and does not give Taylor the chance to react herself. When Taylor visits Belly at Cousins Beach, Belly is not straightforward about her feelings for Conrad and Jeremiah. Belly thinks to herself, “The truth was, I liked both [Conrad and Jeremiah] in different ways and I didn’t want [Taylor] to know” (p. 73). Again, Belly denies Taylor the truth. Belly does not tell her best friend that she has feelings for both of her childhood friends, Conrad and Jeremiah. Belly does not want to tell Taylor the truth. However, even when Belly wants to talk honestly with Taylor, she doesn’t. One night, Belly admits, “I wished I could talk to Taylor…When she came back upstairs an hour later, I pretended I was sleeping” (p. 179). Belly allows her jealousy and negative thoughts about Taylor to overpower her instinctive desire to connect with Taylor. She sacrifices opportunities to talk with Taylor in favor of silence. 
 
-Best friends Laurel Dunne and Susannah Fisher exhibit contrasting approaches to
-everyday life, their marriages, and their children. In their everyday lives,
-Laurel is predictable and sensible when she cooks. Susannah remains
-unpredictable and takes more risks. The women prefer different topics of
-conversation at the dinner table, and they feel differently about the right way
-to clean a house. Regarding marriage, Laurel doesn’t believe that women should
-change their last names when they marry, and she never behaves in a way that
-reveals her true feelings for her husband. Susannah changes her last name to her
-husband’s last name and comfortably reveals her affection for her husband in
-front of others. Laurel prefers to be more selective when it comes to gifts for
-the children, and stricter regarding certain expectations. In contrast, Susannah
-enjoys gift-giving regardless of cost, and does not demand as much of the
-children. The two women also show affection to the children in unique ways.
-During the summers at the beach, Laurel and Susannah show their children how two
-people can have some different opinions and make different choices and still be
-great friends.
+The summer Belly turns fourteen, Belly allows her problems with Taylor to grow. Belly’s undesirable behavior begins with her jealousy towards Taylor. Belly’s first mistake is to designate Taylor as the pretty friend. The image of Taylor that Belly creates in her mind, of Taylor as the inherently more attractive friend, affects the rest of their relationship. In her mind, Belly puts her friend and herself at odds. Belly’s jealousy causes her to view Taylor as a competitor. She resents Taylor’s new clothes and feels suspicious that Taylor will steal Conrad and Jeremiah away from her. Because Belly feels threatened by Taylor’s beauty, her clothing, and her interactions with others, Belly begins to judge Taylor harshly. Belly’s jealous feelings make her think unkind thoughts about Taylor and to make unkind comments about her. Belly expresses her dissatisfaction with Taylor to her mother, and makes disparaging accusations of her to Jeremiah. Belly hides all of these negative feelings from Taylor, which gives Taylor no chance to help ease the negativity. In order to improve her friendship with Taylor, Belly must learn how to behave with more empathy.
 
----
 References
 
-Han, J. (2009). _The Summer I Turned Pretty_. Simon & Schuster.
+Han, J. (2009). _The summer I turned pretty_. Simon and Schuster.
+
