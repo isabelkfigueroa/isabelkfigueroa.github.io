@@ -55,4 +55,4 @@ In order to show slavery’s all-encompassing evil, Harriet Jacobs provides evid
 ---
 References
 
-Jacobs, H. (2016). _Incidents in the life of a slave girl_. Clydesdale Press. (Original work published 1861).
+Jacobs, H. (2016). _Incidents in the life of a slave girl_. Clydesdale Press. (Original work published 1861)
