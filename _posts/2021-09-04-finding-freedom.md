@@ -20,7 +20,8 @@ Although Addy and her mother can be free in the north, they still face many hard
 
 _Finding Freedom_ centers around the Walker family’s escape from slavery in North Carolina, and their arrival as free people in Pennsylvania. The Walkers know that they do not want to be enslaved. They want to be free. However, the decision to flee their plantation in North Carolina remains complicated. The family thinks critically about what they must leave behind, and what they may face if their escape fails. They also must consider what awaits them along the journey north. They expect the plantation’s dogs to chase them, they expect Confederate soldiers throughout the south, and they expect the unforgiving challenges of the outdoors. Finally, the Walkers do not entertain false hopes about the north. If they do make the journey to Philadelphia, they know they will arrive illiterate and friendless in a city where they must forge their own living. Although Philadelphia offers freedom from slavery, the American city does not offer freedom from all racial injustices. As Addy and her family see, an attempt to escape slavery comes with many known as well as unknown risks. Ultimately, Addy and Ruth decide to flee the south. However, Finding Freedom illustrates some of the reasons why the choice is so difficult.
 
+---  
 References
 
-Porter, C. (2014). _Finding Freedom._ American Girl Publishing.
+Porter, C. (2014). _Finding freedom._ American Girl Publishing.
 
