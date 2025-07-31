@@ -30,4 +30,4 @@ Thomas Fowler’s goal in _The Quiet American_ is to seem believable when he say
 ---
 References
 
-Greene, G. (1955/2002). _The quiet American_. Vintage.
+Greene, G. (2002). _The quiet American_. Vintage. (Original work published 1955)
