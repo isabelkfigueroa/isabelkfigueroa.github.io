@@ -116,5 +116,5 @@ respect and true care.
 ---
 References
 
-Dumas, A. (2015). _The story of a nutcracker_. (S. Ardizzone, Trans.). Vintage
-Books. (Original work published 1845).
+Dumas, A. (2015). _The story of a nutcracker_ (S. Ardizzone, Trans.). Vintage
+Books. (Original work published 1845)
