@@ -123,5 +123,5 @@ fill the role.
 ---
 References
 
-Rowling, J.K., (2000), _Harry Potter and the goblet of fire_. Pottermore
+Rowling, J.K. (2000). _Harry Potter and the goblet of fire_. Pottermore
 Limited.
