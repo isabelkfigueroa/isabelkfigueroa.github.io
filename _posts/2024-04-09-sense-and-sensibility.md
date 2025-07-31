@@ -146,4 +146,4 @@ consumes much of Elinor’s thoughts and words.
 References
 
 Austen, J. (2012). _Sense and sensibility_. HarperPerennial Classics. (Original
-work published 1811).
+work published 1811)
