@@ -28,6 +28,6 @@ Kien also worries for himself. Despite the uncertainty of his future, however, K
 ---
 References
 
-Ninh, B. (1993). _The sorrow of war_. (F. Palmos, Trans.). Vintage Books. (Original work published 1991).
+Ninh, B. (1993). _The sorrow of war_ (F. Palmos, Trans.). Vintage Books. (Original work published 1991)
 
 
