@@ -106,5 +106,5 @@ their feelings.
 ---
 References
 
-Rowell, Rainbow & Hicks, Faith Erin. (2019). _Pumpkin Heads_. Macmillan
+Rowell, R. & Hicks, F.E. (2019). _Pumpkin heads_. Macmillan
 Children’s Books.
