@@ -121,4 +121,4 @@ absence of humans no great loss.
 ---
 References
 
-London, J. (2011). _The call of the wild_. Collins Classics. (Original work published 1903).
+London, J. (2011). _The call of the wild_. Collins Classics. (Original work published 1903)
