@@ -25,4 +25,4 @@ When Will Parker begins to suspect the Tripods, he learns that if he rejects the
 ---
 References
 
-Christopher, J. (1967/2014). _The White Mountains_. Aladdin Paperbacks.
+Christopher, J. (2014). _The white mountains_. Aladdin Paperbacks. (Orignial work published 1967)
