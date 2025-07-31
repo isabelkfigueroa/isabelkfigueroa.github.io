@@ -126,5 +126,5 @@ sounds, and smells of the Osage Nation before and after American influence.
 ---
 References
 
-Grann, D. (2017). _Killers of the Flower Moon: The Osage Murders and the Birth
+Grann, D. (2017). _Killers of the flower moon: The Osage murders and the birth
 of the FBI._ Doubleday.
