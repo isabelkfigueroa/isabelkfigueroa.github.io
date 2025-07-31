@@ -157,4 +157,4 @@ experience in London.
 ---
 References
 
-Selvon, S. *The lonely Londoners*. Penguin Books. (original publication 1956).
+Selvon, S. (2006). _The lonely Londoners_. Penguin Books. (Original work published 1956)
