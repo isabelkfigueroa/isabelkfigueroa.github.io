@@ -120,5 +120,5 @@ show how for Japanese soldiers, the enemy is only one of their many problems.
 ---
 References
 
-Mizuki, S. (2011). _Onward towards our noble deaths_. (J. Allen, Trans.) Drawn &
-Quarterly. (Original work published 1973).
+Mizuki, S. (2011). _Onward towards our noble deaths_ (J. Allen, Trans.). Drawn &
+Quarterly. (Original work published 1973)
