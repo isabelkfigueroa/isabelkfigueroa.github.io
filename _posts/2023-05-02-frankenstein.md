@@ -120,4 +120,4 @@ is the true source of horror in Mary Shelley’s novel.
 References
 
 Shelley, M. (2018). _Frankenstein: The 1818 text_. Penguin Books. (Original work
-published 1818).
+published 1818)
