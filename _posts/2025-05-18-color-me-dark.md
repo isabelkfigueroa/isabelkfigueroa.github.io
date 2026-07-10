@@ -20,8 +20,7 @@ Tennessee, Mr. Love initiates a Colored Men’s Improvement Association (CMIA)
 that makes real contributions to their community. In Chicago, he continues his
 membership in the National Association for the Advancement of Colored People
 (NAACP), and helps disseminate important information. In Chicago, Mrs. Love
-protests against the lynchings, or extrajudicial killings, that at the time,
-black people experience too often at the hands of white people. She also
+protests against the lynchings, or extrajudicial killings, that black people experience too often. She also
 advocates for voting rights for all Americans. Both Mr. and Mrs. Love teach
 their children, Nellie Lee and Erma Jean, to stay informed and active citizens.
 Alongside the example that their parents set, the girls develop their own
@@ -36,8 +35,7 @@ Still in Tennessee, Nellie Lee writes about her father in her diary: “Daddy an
 Mr. James started the Colored Men’s Improvement Association. Daddy’s the
 president and Mr. James is the treasurer…The men in the CMIA repaired the roof
 of our schoolhouse” (pp. 10, 17). Mr. Love takes initiative, and organizes the
-men in his community. After the inception of the local Colored Men’s
-Improvement Association, or CMIA, Mr. Love continues to devote time as the
+men in his community. After the inception of the CMIA, Mr. Love continues to devote time as the
 organization’s leader. Mr. Love spearheads important projects in the community.
 His timely, organized response to the schoolhouse’s leaky roof facilitates a
 quick repair. Thanks to Mr. Love and the other men in the CMIA, the local
@@ -74,17 +72,15 @@ society.
 # Women
 
 Like her husband, Olive Love advocates for justice in the United States. Both
-in Tennessee and Illinois, the Love family witnesses the lynchings, or murders,
-of black people. Olive Love tries to stop these killings. In Chicago, “Mama
+in Tennessee and Illinois, the Love family witnesses the lynchings of black people. Olive Love tries to stop these killings. In Chicago, “Mama
 attended an anti-lynching rally with her women’s Club members. A mob tried to
 break them up, but the ladies locked arms and stood their ground. Some white
-ladies joined them, and the mob backed down” (p. 134). Olive knows that
-lynchings are unjust, as they are killings that have no authority under the
-law. She decides to join others in her community to speak out against the
-injustice. When Olive and others go to protest, some people try to silence
-them, but Olive and her fellow protestors persist. They continue to protest and
+ladies joined them, and the mob backed down” (p. 134). Mrs. Love knows that
+lynchings are unjust, so she decides to join others in her community to speak out against the
+injustice. When Mrs. Love and others go to protest, some people try to silence
+them, but Mrs. Love and her fellow protestors persist. They continue to protest and
 attract even more support. Ultimately, the protestors overcome the people who
-want to sabotage their resistance. Olive illustrates how individuals can
+want to sabotage their resistance. Mrs. Love illustrates how individuals can
 participate in organized group efforts and bravely call for change. Olive Love
 also shows public support for the voting rights of all Americans. Nellie Lee
 writes in her journal: “Mama is still working hard in the suffrage movement -
@@ -92,17 +88,17 @@ handing out pamphlets and attending meetings. She is not as timid or shy as she
 used to be, but she is always a lady, very proper even during the worst of
 times” (p. 180). Suffrage, or the right to vote in political elections, does
 not apply to all Americans in the United States when the Love family moves to
-Chicago. Nellie Lee observes that her mother, Olive, dedicates consistent time
-to causes that are important to her.Soon after the family arrives in Chicago,
+Chicago. Nellie Lee observes that her mother dedicates consistent time
+to causes that are important to her. Soon after the family arrives in Chicago,
 Olive Love brings her husband and children to a church service near their home.
-Olive enjoys the service and when the Reverend Prince McDonald tells her about
-the youth lecture series he hosts, Olive agrees to bring her daughters. The
+Mrs. Love enjoys the service and when the Reverend Prince McDonald tells her about
+the youth lecture series he hosts, she agrees to bring her daughters. The
 next week, “...Mama walked us to Reverend McDonald’s Open Mind Church and Youth
 Center…It was exciting to know that Dr. DuBois had written a book about Africa.
 [Nellie Lee] had never heard of kingdoms in Africa…Mama hadn’t intended to, but
-she stayed the entire time” (pp. 93-94). Olive Love takes her daughters to the
-youth center for a Saturday lecture, where enjoys the topic so much that she
-stays for the whole lecture. Through Reverend McDonald, Mrs. Love helps expose
+she stayed the entire time” (pp. 93-94). Mrs. Love takes her daughters to the
+youth center for a Saturday lecture, where she enjoys the topic so much that she
+stays for the whole event. Through Reverend McDonald, Mrs. Love helps expose
 her young daughters to the work of Dr. W.E.B. Du Bois, a leader in the fight
 for civil rights in the United States. Olive models to her daughters how to
 seek out educational opportunities in the community, and how to find joy in
@@ -126,8 +122,7 @@ can help them. Erma Jean tells Reverend Prince about their problem at school
 and he immediately volunteers to come speak to their teacher and offer his
 time. Miss Franklin agrees to have Reverend Prince come as a guest speaker. In
 December, 1919, the Love sisters’ neighbor, Mother Doris, invites the Love
-family to help serve dinner at the YMCA on Christmas Day for people who are
-homeless or newly arrived from the South. Nellie Lee relates that on December
+family to help serve dinner at the YMCA on Christmas Day for people who do not have homes or are newly arrived from the South. Nellie Lee relates that on December
 25th, “As was planned, we worked at the YMCA. I helped to set the table, and
 Erma Jean sliced cake and put it on plates. I couldn’t help but think that a
 few months ago we were new to Chicago, not knowing anybody…Now we were telling
@@ -136,8 +131,8 @@ wide-eyed children from Alabama and Mississippi about the wonders of Chicago”
 nonprofit community center. They complete small tasks in preparation of the
 meal, and then talk to the children there. The sisters share their knowledge of
 Chicago with the more newly arrived children. Because their parents introduce
-Nellie Lee and Erma Jean to Dr. W.E.B DuBois, the NAACP, and _The Crisis, _the
-girls develop their own interest. Nellie Lee relates: “_The Crisis _arrived.
+Nellie Lee and Erma Jean to Dr. W.E.B DuBois, the NAACP, and _The Crisis_,the
+girls develop their own interest in social justice. Nellie Lee relates: “_The Crisis_ arrived.
 Dr. DuBois announced that there will be twelve Brownie issues instead of the
 one per year. Erma and I begged Daddy to let us subscribe to it” (p. 151).
 Nellie Lee pays close attention to the monthly magazine from the NAACP that her
@@ -162,10 +157,10 @@ The girls get Reverend Prince to come to their school and educate their class,
 including their teacher, on specific topics in African history. They share
 their time and their own knowledge at the YMCA with children who are new to
 Chicago. Finally, the girls maintain an interest in the NAACP’s magazine, _The
-Crisis,_ and its other publications. _Color Me Dark_ follows the Love family
-through the year 1919, at a time during which many black families leave the
+Crisis_, and its other publications. _Color Me Dark_ follows the Love family
+through the year 1919, at a time when many black families leave the
 southern United States for other regions in the country because of the social,
-economic, and political suppression, and violence they experience in the South.
+economic, and political suppression and violence they experience in the South.
 Through the Love family, Patricia McKissack illustrates some of the real
 challenges, and hard won victories, for many black families in 20th century
 America. 
