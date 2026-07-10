@@ -7,14 +7,14 @@ image: the-lightening-thief.jpg
 ---
 In Rick Riordan’s 2005 adventure novel, *The Lightning Thief*,
 twelve-year-old Percy Jackson faces serious challenges. First, Percy
-struggles with what he considers to be a bad time in school. He feels
-that he is always in trouble with adults at school, he does not enjoy
-many of his classmates, and he struggles with his attention deficit
-disorder and dyslexia. Percy leaves his school, Yancy Academy, for the
-summer, and finds himself at the summer camp, Camp Half-Blood. At this
+struggles with what he considers to be a bad time at his school, Yancy Academy. He feels
+that he is always in trouble with adults, he does not enjoy
+many of his classmates, and he struggles with his dyslexia and attention deficit
+disorder. Percy leaves Yancy Academy for the
+summer and attends Camp Half-Blood. At this
 very unusual summer camp, Percy learns new information about his
 heritage and discovers that his life is in danger. Ultimately, Percy
-meets the Greek god of the dead, Hades, in the Underworld. As Percy
+finds himself in the Underworld, where he meets Hades, the Greek god of the dead. As Percy
 faces his many challenges, he maintains a positive attitude and a good
 sense of humor. Percy’s humor manifests in different ways. First, he
 uses hyperbole, or exaggerated statements, to make normal situations
@@ -27,7 +27,7 @@ to lighten the mood.
 
 # Hyperbole 
 
-*The Lightning Thief* begins with Percy as a normal sixth grade student
+_The Lightning Thief_ begins with Percy as a normal sixth grade student
 at Yancy Academy. When Percy and his classmates go on a field trip to
 Manhattan, the school worries about Percy’s behavior on the field trip
 because of his past infractions. Percy relates, “The headmaster had
@@ -38,12 +38,12 @@ in-school suspension, a common school consequence to a serious violation
 of school rules. However, Percy equates an in-school suspension with
 “death.” Furthermore, Percy claims that he faces an execution even if
 something “even mildly entertaining” happens. Percy hyperbolizes the
-headmaster’s potential punishment, to a nonsensical, humorous level. On
+headmaster’s potential punishment to a nonsensical, humorous level. On
 the day of the field trip, Percy says, “...our sixth-grade class took a
 field trip to Manhattan - twenty-eight mental-case kids and two teachers
 on a yellow school bus, heading to the Metropolitan Museum of Art to
 look at ancient Greek and Roman stuff. I know - it sounds like torture”
-(p. 2). In some ways, Percy describes a typical field trip, in that
+(p. 2). Percy describes a typical field trip, in that
 there are students and teachers together on a school bus to visit
 somewhere outside the classroom. The field trip sounds even better than
 average because Percy and his classmates are on their way to the largest
@@ -51,8 +51,7 @@ city in the United States, to visit a world renowned art museum.
 Although Percy’s description of the field trip seems normal, and even
 exciting, he describes the field trip as, “torture.” Percy’s displeasure
 leads him to exaggerate the nature of the day, and to describe the trip
-as extreme suffering. At the beginning of Summer vacation, Grover and
-Percy take a bus from Yancy Academy together. Grover shows Percy a
+as extreme suffering. At the beginning of Summer vacation, Percy and his friend, Grover, take a bus from Yancy Academy together. Grover shows Percy a
 business card that makes Percy think: “The card was in fancy script,
 which was murder on my dyslexic eyes…” (p. 23). Percy’s dyslexia makes
 reading a challenge, and certain types of font make words even more
@@ -61,7 +60,7 @@ Percy to struggle, the written words do not “murder” him. Percy likens
 an in-school suspension, a field trip, and the script on a card to
 death, torture, and murder, respectively. Percy exaggerates his
 experience with school and reading to make commonplace, or at least
-manageable realities, seem comically extreme.
+manageable realities, comically extreme.
 
 # Understatement
 
@@ -71,8 +70,8 @@ dream Percy has about a real conflict between gods, Percy sees the gods
 Zeus and Poseidon fight over Zeus’s master lightning bolt. Percy sees
 that: “...two men were fighting. They looked like TV wrestlers,
 muscular, with beards and long hair…Over the roar of the storm, I could
-hear the blue-robed one yelling at the green-robed one,* Give it back!
-Give it back! *Like a kindergartener fighting over a toy” (p. 129). The
+hear the blue-robed one yelling at the green-robed one, _Give it back!
+Give it back!_ Like a kindergartener fighting over a toy” (p. 129). The
 “blue-robbed one,” or Zeus, and the “green-robed one,” Poseidon, are two
 of the most powerful Greek gods. The two gods look like strong, grown
 men, yet Percy thinks they fight as small children do. Percy sees Zeus,
@@ -85,7 +84,7 @@ pitted with rust; old leather steamer trunks plastered with stickers
 saying ITHAKA, CIRCE’S ISLE, and LAND OF THE AMAZONS” (p. 139). Percy
 equates ancient Greek artifacts with useless items of little value. The
 artifacts come from famous places in Greek mythology such as Ithaka, the
-home island of the character Odysseus in the epic poem, *Odyssey*,
+home island of the character Odysseus in the epic poem, _Odyssey_,
 “Circe’s isle,” the home island of the Greek goddess, Circe, and the
 “land of the Amazons,” the mysterious home of the female warrior
 civilization. When Percy leaves camp Half-Blood on his first quest, he
