@@ -53,7 +53,7 @@ exciting, he describes the field trip as, “torture.” Percy’s displeasure
 leads him to exaggerate the nature of the day, and to describe the trip
 as extreme suffering. At the beginning of Summer vacation, Percy and his friend, Grover, take a bus from Yancy Academy together. Grover shows Percy a
 business card that makes Percy think: “The card was in fancy script,
-which was murder on my dyslexic eyes…” (p. 23). Percy’s dyslexia makes
+which was murder on my dyslexic eyes…” (p. 24). Percy’s dyslexia makes
 reading a challenge, and certain types of font make words even more
 difficult to read. While the unusual script on the card might cause
 Percy to struggle, the written words do not “murder” him. Percy likens
@@ -71,7 +71,7 @@ Zeus and Poseidon fight over Zeus’s master lightning bolt. Percy sees
 that: “...two men were fighting. They looked like TV wrestlers,
 muscular, with beards and long hair…Over the roar of the storm, I could
 hear the blue-robed one yelling at the green-robed one, _Give it back!
-Give it back!_ Like a kindergartener fighting over a toy” (p. 129). The
+Give it back!_ Like a kindergartener fighting over a toy” (p. 130). The
 “blue-robbed one,” or Zeus, and the “green-robed one,” Poseidon, are two
 of the most powerful Greek gods. The two gods look like strong, grown
 men, yet Percy thinks they fight as small children do. Percy sees Zeus,
@@ -110,7 +110,7 @@ experience less frightening, and more funny. When Percy first arrives,
 he observes: “I’m not sure what I was expecting - Pearly Gates, or a big
 black portcullis, or something. But the entrance to the Underworld
 looked like a cross between airport security and the Jersey Turnpike”
-(p. 290). Percy expects a grand entrance to the Underworld - a storied,
+(p. 291). Percy expects a grand entrance to the Underworld - a storied,
 physical symbol to mark the beginning of a significant place. Instead,
 Percy encounters a familiar, and mundane transportation scene. The
 modern, unexciting reality of the entrance to the Underworld, contrary
@@ -128,7 +128,7 @@ Hades does not want that. Hades says to Percy: “Do you think I need more
 subjects? Did you not see the sprawl of the Asphodel Fields? Have you
 any idea how much my kingdom has swollen this past century alone, how
 many subdivisions I’ve had to open…No, godling. I need no help getting
-subjects!” (p. 312). Percy expects Hades to want war, and death.
+subjects!” (pp. 311-312). Percy expects Hades to want war, and death.
 Instead, Hades focuses on urban development. Hades concerns himself with
 the “sprawl,” and “subdivisions,” because he wants to be a good ruler,
 and wants the Underworld to run smoothly. Hades, Cerberus, and the
