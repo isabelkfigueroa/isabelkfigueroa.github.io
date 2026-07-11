@@ -38,24 +38,20 @@ will tell them to join him as soon as possible. Nehemiah remains a highly esteem
 father in his wife and son’s eyes. Joshua conveys his pride and confidence in
 his father without a direct declaration. At first, Joshua feels very
 differently about Captain Hunter. When Joshua sees the captain, he thinks:
-“[the captain’s] eyes were a light blue and he had a way of fixing them on your
-that made you with you could be someplace else” (p. 11). Joshua gives a direct
-description of one of the Captain’s physical features - his eyes - but he
-describes how the Captain makes him feel, indirectly. Joshua says that the
-Captain has the ability to look at him and make him so uncomfortable, he wants
-to go away. The description implies that the Captain intimidates Joshua, and
-that Joshua prefers not to draw the Captain’s attention. At some point along
-the trail, Joshua says of his friend, Isaiah:  “I have never thought of
+“[the captain’s] eyes were a light blue and he had a way of fixing them on you
+that made you wish you could be someplace else” (p. 11). Joshua gives a direct
+description of the captain's eyes, but he is less direct when he 
+describes how the captain makes him feel. Joshua suggests that he wants to disappear when the captain looks at him. The description implies that Joshua prefers not to draw the captain’s attention because the captain makes him uncomfortable and intimidated. At some point along
+the trail, Joshua expresses even more negative feelings towards his colleague, Isaiah. Joshua relates:  “I have never thought of
 shooting a man down in cold blood, but if I do shoot a man, it will surely be
 Isaiah Fatbelly Cotton. Either that or I would like to hit him across the head
 with a running iron and leave my mark on him” (p. 41). Joshua never says he
 feels angry or betrayed, but the emotions are implicit in the way he describes
-his thoughts about Isaiah in the moment. Joshua communicates his murderous
-feelings towards Isaiah are new to him. Isaiah clearly pushes Joshua to a new
+his murderous thoughts. Isaiah clearly pushes Joshua to a new
 level of anger, where Joshua feels so enraged that he wants to cause Isaiah
 physical harm. Joshua gives specific examples, rather than explicit
 descriptions, that illustrate his feelings towards his father, Captain Hunter,
-and his friend, Isaiah.
+and his fellow cowboy, Isaiah.
 
 # Idioms
 
@@ -66,20 +62,18 @@ careful with his education. Joshua writes, “Mr. Muhlen told me to go ahead and
 learn all I could, but don’t be washing nobody’s face in my learning because
 that is how people got themselves hurt. Isaiah said the same thing” (p. 37).
 People on the ranch tell Joshua not to “wash anybody’s face.” He understands
-the warning to mean that he must not correct or counter people, and thus
-embarrass them. If he behaves too forwardly about his education, he may put
+the warning to mean that he must not correct or counter people. If he reveals his knowledge, he may put
 himself in a dangerous position with people who do not like him. Joshua tries
 to remain modest, but curious. One evening, Joshua asks Chubb questions Chubb
 does not want to hear. Chubb tells Joshua: “Let me ask you something…Did the
 Captain tell you to come over here and look out for horse thieves or come chew
 my ear off?” (p. 40). Joshua understands that when Chubb says “chew my ear
-off,” Chubb means that Joshua talks too much. The idiom emphasizes the
-unpleasantness of too many questions, and Joshua’s place as an irritating young
+off,” Chubb means that Joshua talks too much. The idiom emphasizes Chubb's displeasure with the questions, and his perception of Joshua as an irritating young
 person. When the cowboys reach their destination in Abilene, Kansas, Captain
 Hunter recognizes Joshua for his fine work as a cowboy. However, Captain Hunter
 tempers his praise when he tells Joshua: “...don’t go buying no bigger hat
-size, ’cause you still got a lot to learn” (p. 122). Joshua knows that the
-Captain says not to buy a bigger hat because Joshua should not develop a “big
+size, ’cause you still got a lot to learn” (p. 122). Joshua knows the
+Captain says not to buy a bigger hat because he means Joshua should not develop a “big
 head,” or any arrogance regarding his skills. The Captain tells Joshua not to
 feel any conceit. The idiomatic expressions that Joshua hears, understands, and
 records in his journal, he does not explain. However, the idioms help explain
