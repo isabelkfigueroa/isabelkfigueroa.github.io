@@ -10,11 +10,10 @@ published: true
 
 Walter Dean Myers’s 1999 novel, *The Journal of Joshua Loper: A Black Cowboy*,
 illustrates how powerful and intimate indirect descriptions can be. In the
-story, Joshua Loper lives with his mother on a Mr. Muhlen’s ranch in Texas.
-Joshua communicates his feelings and observations through journal entries over
-the course of the first cattle drive he works from Texas to Kansas in 1871. New
-to the trail, Joshua joins the experienced Captain Hunter and other cowboys
-such as Isaiah and Chubb. Joshua’s indirect descriptions fit with the image of
+story, Joshua Loper lives with his mother on Mr. Muhlen’s ranch in Texas. Over
+the course of the first cattle drive Joshua works from Texas to Kansas in 1871,
+Joshua communicates his feelings and observations through journal entries. New
+to the trail, Joshua joins the experienced Captain Hunter and other cowboys including Isaiah and Chubb. Joshua’s indirect descriptions fit with the image of
 the 19th century American cowboy as a stoic man among men. Joshua’s words also
 align with the epistolary style of the novel. In his journal, Joshua writes his
 private thoughts for himself. As he does not write for an audience, Joshua does
@@ -34,9 +33,8 @@ to go up to Ohio, looking for work. He had a game leg from a wound he had got
 in Petersburg, Virginia, but Mama said he would be all right and when he found
 a steady job he would send for us. I knew he would, too” (p. 7). Joshua does
 not explicitly say so, but his words imply that he and his mother trust
-Nehemiah completely. They both feel confident that Nehemiah can find a job, and
-will tell them to join him as soon as possible. Despite his wound from the
-American Civil War, Nehemiah remains a highly esteemed, capable husband and
+Nehemiah completely. They both feel confident that Nehemiah's war injury will not hold him back. They know he can find a job, and
+will tell them to join him as soon as possible. Nehemiah remains a highly esteemed, capable husband and
 father in his wife and son’s eyes. Joshua conveys his pride and confidence in
 his father without a direct declaration. At first, Joshua feels very
 differently about Captain Hunter. When Joshua sees the captain, he thinks:
