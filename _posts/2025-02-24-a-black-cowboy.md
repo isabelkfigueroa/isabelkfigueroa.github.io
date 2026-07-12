@@ -22,8 +22,7 @@ Instead, Joshua writes in a way that assumes understanding. He records events
 and observations in a way that implies his feelings. He uses idioms that other
 people may not recognize, and he uses similes that reflect his personal
 perspective. Joshua’s indirect descriptions, his implications, idioms, and
-similes, all serve as a window to Joshua’s mind, and allow the reader to infer
-Joshua’s feelings and gain a keen understanding of him.
+similes, serve as a clear window into Joshua’s life.
 
 # Implications
 
@@ -55,30 +54,21 @@ and his fellow cowboy, Isaiah.
 
 # Idioms
 
-Throughout his journal, Joshua records the idioms he hears from older men, and
-while he understands them, he does not bother to explain them. Joshua reveals
+The idioms that the men in Joshua's life use help reveal the context in which Joshua lives. Joshua reveals
 that while he takes pride in his schooling and ability to read, he must be
-careful with his education. Joshua writes, “Mr. Muhlen told me to go ahead and
+careful about his education. Joshua writes, “Mr. Muhlen told me to go ahead and
 learn all I could, but don’t be washing nobody’s face in my learning because
 that is how people got themselves hurt. Isaiah said the same thing” (p. 37).
-People on the ranch tell Joshua not to “wash anybody’s face.” He understands
-the warning to mean that he must not correct or counter people. If he reveals his knowledge, he may put
-himself in a dangerous position with people who do not like him. Joshua tries
-to remain modest, but curious. One evening, Joshua asks Chubb questions Chubb
-does not want to hear. Chubb tells Joshua: “Let me ask you something…Did the
+White and black men on the ranch tell Joshua not to “wash anybody’s face.” The captain and Isaiah's warning reveals the precarity of Joshua's life as a young black boy in 1870s Texas. If Joshua reavels his knowledge, or argues with someone, he may find himself in a dangerous position with those who wish him to be subservient. Joshua tries
+to remain modest, but curious. One evening, Joshua asks Chubb a personal question about the captain. Chubb tells Joshua: “Let me ask you something…Did the
 Captain tell you to come over here and look out for horse thieves or come chew
-my ear off?” (p. 40). Joshua understands that when Chubb says “chew my ear
-off,” Chubb means that Joshua talks too much. The idiom emphasizes Chubb's displeasure with the questions, and his perception of Joshua as an irritating young
-person. When the cowboys reach their destination in Abilene, Kansas, Captain
+my ear off?” (p. 40). When Chubb says “chew my ear
+off,” he means that Joshua talks too much. Chubb's sarcastic question demonstrates the tough practicality of the cowboys. Chubb communicates to Joshua that he must focus on his work, not conversation. When the cowboys reach their destination in Abilene, Kansas, Captain
 Hunter recognizes Joshua for his fine work as a cowboy. However, Captain Hunter
 tempers his praise when he tells Joshua: “...don’t go buying no bigger hat
-size, ’cause you still got a lot to learn” (p. 122). Joshua knows the
-Captain says not to buy a bigger hat because he means Joshua should not develop a “big
-head,” or any arrogance regarding his skills. The Captain tells Joshua not to
-feel any conceit. The idiomatic expressions that Joshua hears, understands, and
-records in his journal, he does not explain. However, the idioms help explain
-the cowboys in Joshua’s life, his relationship to them, and what he learns from
-them.
+size, ’cause you still got a lot to learn” (p. 122). The captain says not to buy a bigger hat because he means Joshua should not develop a “big
+head,” or any arrogance regarding his skills. The captain tells Joshua not to
+feel any conceit. The idiomatic expressions that Joshua hears and records in his journal provide key insight regarding life in 1870s Texas and specifically, life as a cowboy.
 
 # Similes
 
@@ -86,12 +76,11 @@ At a particularly rough point for Joshua along the trail, he reflects on his
 experience as he rides the horse, Thunder: “With Thunder bouncing me around
 like that and all the drags acting like they had their own timetables to keep,
 my rear end felt like I had spent six months trying to hatch a porcupine” (pp.
-42-43). Joshua doesn’t explicitly say that his bottom is painful. However, he
+42-43). Joshua doesn’t explicitly say that his bottom is in pain. Instead, he
 relates the specific problems at that time. First, Joshua’s horse bounces him
 in the saddle, which lifts and drops him repeatedly. Second, the slowest cattle
 do not seem to care about the cowboys’ desired pace - the slow pace of the
-cattle keeps Joshua on his horse for long hours. The simile Joshua uses to
-describe his pain includes the image of a chicken that sits on a spiky
+cattle keeps Joshua on his horse for long hours. In his simile, Joshua compares himself to a chicken that sits on a spiky
 porcupine instead of a smooth egg. As a cowboy on the trail, the image of a
 farm animal and a wild animal come naturally to him. He uses the images of the
 animals to describe the sharp pangs of pain he feels. In Late June, Joshua and
