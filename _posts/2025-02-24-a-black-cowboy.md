@@ -8,49 +8,44 @@ published: true
 ---
 
 
-Walter Dean Myers’s 1999 novel, *The Journal of Joshua Loper: A Black Cowboy*,
+Walter Dean Myers’s 1999 novel, _The Journal of Joshua Loper: A Black Cowboy_,
 illustrates how powerful and intimate indirect descriptions can be. In the
-story, Joshua Loper lives with his mother on Mr. Muhlen’s ranch in Texas. Over
-the course of the first cattle drive Joshua works from Texas to Kansas in 1871,
-Joshua communicates his feelings and observations through journal entries. New
-to the trail, Joshua joins the experienced Captain Hunter and other cowboys including Isaiah and Chubb. Joshua’s indirect descriptions fit with the image of
+story, Joshua Loper lives with his mother on Mr. Muhlen’s ranch in Texas. In 1871, Joshua joins Captain Hunter and other cowboys including Isaiah and Chubb on his first cattle drive from Texas to Kansas. On the trail,
+Joshua communicates his feelings and observations through journal entries. Joshua’s indirect descriptions fit with the image of
 the 19th century American cowboy as a stoic man among men. Joshua’s words also
 align with the epistolary style of the novel. In his journal, Joshua writes his
 private thoughts for himself. As he does not write for an audience, Joshua does
 not see the need to over explain himself for others to easily understand.
-Instead, Joshua writes in a way that assumes understanding. He records events
-and observations in a way that implies his feelings. He uses idioms that other
+Instead, Joshua writes in a way that assumes understanding. He refers to other people in a way that implies his feelings. He uses idioms that other
 people may not recognize, and he uses similes that reflect his personal
 perspective. Joshua’s indirect descriptions, his implications, idioms, and
 similes, serve as a clear window into Joshua’s life.
 
 # Implications
 
-Whenever Joshua communicates his feelings, he tends not to use adjectives or
+Whenever Joshua communicates his feelings about other people, he tends not to use adjectives or
 explain himself directly. Joshua writes of his father, Nehemiah: “...he decided
 to go up to Ohio, looking for work. He had a game leg from a wound he had got
 in Petersburg, Virginia, but Mama said he would be all right and when he found
 a steady job he would send for us. I knew he would, too” (p. 7). Joshua does
 not explicitly say so, but his words imply that he and his mother trust
-Nehemiah completely. They both feel confident that Nehemiah's war injury will not hold him back. They know he can find a job, and
+Nehemiah completely. Joshua and his mother feel confident that Nehemiah's war injury will not hold him back. They know Nehemiah can find a job, and
 will tell them to join him as soon as possible. Nehemiah remains a highly esteemed, capable husband and
 father in his wife and son’s eyes. Joshua conveys his pride and confidence in
 his father without a direct declaration. At first, Joshua feels very
-differently about Captain Hunter. When Joshua sees the captain, he thinks:
+differently about Captain Hunter. Before Joshua gets to know the captain, Joshua thinks:
 “[the captain’s] eyes were a light blue and he had a way of fixing them on you
 that made you wish you could be someplace else” (p. 11). Joshua gives a direct
 description of the captain's eyes, but he is less direct when he 
-describes how the captain makes him feel. Joshua suggests that he wants to disappear when the captain looks at him. The description implies that Joshua prefers not to draw the captain’s attention because the captain makes him uncomfortable and intimidated. At some point along
-the trail, Joshua expresses even more negative feelings towards his colleague, Isaiah. Joshua relates:  “I have never thought of
+describes how the captain makes him feel. Joshua suggests that he wants to disappear when the captain looks at him. The description implies that Joshua prefers not to draw the captain’s attention because the captain makes him feel uncomfortable and intimidated. At some point along
+the trail, Joshua expresses even more negative feelings towards his colleague, Isaiah. When Isaiah embarrasses Joshua in front of the other cowboys, Joshua relates:  “I have never thought of
 shooting a man down in cold blood, but if I do shoot a man, it will surely be
 Isaiah Fatbelly Cotton. Either that or I would like to hit him across the head
 with a running iron and leave my mark on him” (p. 41). Joshua never says he
 feels angry or betrayed, but the emotions are implicit in the way he describes
 his murderous thoughts. Isaiah clearly pushes Joshua to a new
 level of anger, where Joshua feels so enraged that he wants to cause Isaiah
-physical harm. Joshua gives specific examples, rather than explicit
-descriptions, that illustrate his feelings towards his father, Captain Hunter,
-and his fellow cowboy, Isaiah.
+physical harm. Although Joshua does not explicitly say how he feels about people such as his father, Captain Hunter, and Isaiah, he consistently implies his feelings towards others.
 
 # Idioms
 
@@ -59,7 +54,7 @@ that while he takes pride in his schooling and ability to read, he must be
 careful about his education. Joshua writes, “Mr. Muhlen told me to go ahead and
 learn all I could, but don’t be washing nobody’s face in my learning because
 that is how people got themselves hurt. Isaiah said the same thing” (p. 37).
-White and black men on the ranch tell Joshua not to “wash anybody’s face.” The captain and Isaiah's warning reveals the precarity of Joshua's life as a young black boy in 1870s Texas. If Joshua reavels his knowledge, or argues with someone, he may find himself in a dangerous position with those who wish him to be subservient. Joshua tries
+White and black men on the ranch tell Joshua not to “wash anybody’s face,” or embarrass anyone with his knowledge. The captain and Isaiah's warning reveals the precarity of Joshua's life as a young black boy in 1870s Texas. There are those who wish Joshua to be subservient. If someone in a position of power over Joshua perceives him to be disrespectful or argumentative, that person could cause him harm. Joshua tries
 to remain modest, but curious. One evening, Joshua asks Chubb a personal question about the captain. Chubb tells Joshua: “Let me ask you something…Did the
 Captain tell you to come over here and look out for horse thieves or come chew
 my ear off?” (p. 40). When Chubb says “chew my ear
@@ -68,7 +63,7 @@ Hunter recognizes Joshua for his fine work as a cowboy. However, Captain Hunter
 tempers his praise when he tells Joshua: “...don’t go buying no bigger hat
 size, ’cause you still got a lot to learn” (p. 122). The captain says not to buy a bigger hat because he means Joshua should not develop a “big
 head,” or any arrogance regarding his skills. The captain tells Joshua not to
-feel any conceit. The idiomatic expressions that Joshua hears and records in his journal provide key insight regarding life in 1870s Texas and specifically, life as a cowboy.
+feel any conceit. The idiomatic expressions that Joshua hears and records in his journal provide key insight into Joshua's life as an 1870s black, Texas cowboy.
 
 # Similes
 
@@ -84,18 +79,14 @@ cattle keeps Joshua on his horse for long hours. In his simile, Joshua compares 
 porcupine instead of a smooth egg. As a cowboy on the trail, the image of a
 farm animal and a wild animal come naturally to him. He uses the images of the
 animals to describe the sharp pangs of pain he feels. In Late June, Joshua and
-the cowboys cross paths with a band of soldiers. Joshua says of the black
-soldiers: “They carried themselves like they owned the world…One got off his
+the cowboys cross paths with a band of black soldiers. Joshua says of the men: “They carried themselves like they owned the world…One got off his
 horse so slow he could have been a picture that was moving instead of a man”
 (p. 80). The black soldiers make an impression on Joshua; he perceives them to
-be confident and elegant. The soldiers are most likely similar to Joshua in
-that they live a harsh life outdoors. As soldiers, they most definitely answer
-to a leader, and have few personal possessions with them. However, Joshua
+be dignified and elegant. As soldiers, they most definitely answer
+to a leader, and likely live a harsh life outdoors with few personal possessions. However, Joshua
 imagines them as men who answer to no one, and want for nothing, men who “own
 the world.” He watches them move and appreciates their unhurried,
-“picturesque,” manner. Although Joshua may not realize the change himself, the
-great power of nature he experiences on the trail begins to empower him as
-well. Joshua observes: “Last night the sky was full of stars. It looked like
+“picturesque,” manner. The natural world also makes an impression on Joshua. The nature he experiences on the trail begins to empower him. Joshua observes one night: “...the sky was full of stars. It looked like
 they were crowding each other, tumbling and sparkling in the night sky…I felt
 like I could open myself and get as big as the sky” (p. 82). Joshua feels a
 connection to the night sky that invigorates him. He sees stars that “crowd
@@ -104,28 +95,23 @@ each other” and “tumble” like playful youths, but at the same time, they
 Joshua communicates his feelings of pain, admiration, and empowerment in his
 own unique way.
 
-Joshua Loper’s indirect characterizations make sense in the journal of a
+Joshua Loper’s indirect descriptions make sense in the journal of a
 cowboy. He doesn’t say exactly how he feels about people like his father,
 Captain Hunter, or his friend, Isaiah, but he gives examples and descriptions
-that imply his feelings. Joshua implies that he *trusts* his father, feels
-*uncomfortable* around Captain Hunter, and becomes *angry* with Isaiah, all
+that imply his feelings. Joshua implies that he feels _confident_ in his father, initially feels
+_uncomfortable_ around Captain Hunter, and at one point, becomes _angry_ with Isaiah, all
 without the use of those words. Joshua’s use of idioms, that reflect the 19th
-century American West, also fit within the context of the novel. The idioms
-that Mr. Muhlen, Chubb, and Captain Hunter use when they speak to Joshua reveal
-a good deal of information. They highlight the opinions of Mr. Muhlen, Chubb,
-and Captain Hunter, and also how they view Joshua specifically. The idioms show
-the cowboys communicate with each other indirectly as well. Mr. Muhlen never
-says, “be careful,” Chubb does not say, “I’m tired,” or “I’m not interested in
-your questions, Joshua.” Similarly, Captain Hunter does not tell Joshua, “stay
-humble.” Instead, Mr. Muhlen and the cowboys express their feelings or give
+century American West, also fit within the context of the novel. Mr. Muhlen never
+says, "be careful," and Chubb does not say, "Be quiet." Similarly, Captain Hunter does not tell Joshua, "stay
+humble." Instead, Mr. Muhlen and the cowboys express their feelings or give
 Joshua advice in an indirect way. Finally, Joshua often avoids direct
 professions of his emotions, and instead uses similes couched in his experience
 as a cowboy to convey meaning. The use of indirect descriptions not only adds
-to the realism of *The Journal of Joshua Loper. *The language also provides
+to the realism of _The Journal of Joshua Loper_. The language provides
 readers with raw glimpses into Joshua’s world and mind, and allows readers to
 make their own inferences.
 
 --- 
 References
 
-Myers, W.D. (1999). *The journal of Joshua Loper: A black cowboy*. Scholastic.
+Myers, W.D. (1999). _The journal of Joshua Loper: A black cowboy_. Scholastic.
