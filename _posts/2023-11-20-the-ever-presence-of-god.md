@@ -10,14 +10,13 @@ Kathryn Lasky’s 1996 historical novel, _The Diary of Remember Patience Whipple
 A Journey to the New World_, tells the story of a young English girl’s adventure
 from Europe to North America. The diary begins in October of 1620, with
 twelve-year-old Remember Patience Whipple aboard the ship, the _Mayflower_.
-Remember’s family, as well as others in their group, define themselves by their
+Remember’s family, as well as others on board, define themselves by their
 religion. They consider themselves Saints of the Holy Discipline, or Saints.
 Together, the group leaves England and moves first to Holland, and then to North
 America  (the “New World,” according to Remember). In her diary entries,
 Remember writes about her mother (Mam), her father, and her sister, Blessing.
 She writes about her friends Humility (Hummy) Sawyer and Will Butten. She
-relates what happens on the ship, and what the pilgrims do when they first come
-to land at Cape Cod, and when they move to nearby Plimoth. Throughout the diary,
+relates what happens on the ship, when they first land at Cape Cod, and when they move to nearby Plimoth. Throughout the diary,
 Remember references God. Remember’s diary entries reveal how the pilgrims’
 understanding of God affects every aspect of their lives.
 
