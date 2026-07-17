@@ -32,20 +32,19 @@ yowling in chorus, that he swam across again, paddling around in the shallows
 near the bank…three times he swam across, and the third time the old dog waded
 in up to his chest and started swimming” (pp. 62-63). Luath makes the swim first
 to show his friends how to cross, then offers them encouragement. When Bodger
-and Tao do not immediately follow him, Luath does not become angry, and he does
-not leave them. Luath simply continues to show Bodger and Tao how to make the
+and Tao do not immediately follow him, Luath neither becomes angry, nor leaves them. Luath simply continues to show Bodger and Tao how to make the
 crossing, and waits for them to cross as well. When Luath, Bodger, and Tao come
 upon a group of Ojibwe people, Bodger and Tao want to interact with the people.
 The Bull terrier and the Siamese cat both approach the people and savor the
 attention and food the people give them. Only Luath is able to resist the
 distraction. As Tao and Bodger socialize, Luath waits for his companions in the
-shadows:  “All this time the young dog crouched on the hillside, motionless and
+shadows: “All this time the young dog crouched on the hillside, motionless and
 watchful, although every driving, urgent nerve in his body fretted and strained
 at the delay” (p. 47). Luath wants to continue on the journey towards their home
 and owners. The pause makes Luath anxious, and the waiting demands a great
 effort from him. The wait is a struggle for Luath, but he allows Bodger and Tao
 to spend a nice time with the Ojibwe people before he calls for them. The
-empathy that the animals have for each other’s emotional and physical limits,
+empathy that the animals have for each other’s physical and emotional limits
 allows them all to practice patience with each other.
 
 # Protection
