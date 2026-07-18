@@ -145,7 +145,7 @@ in their community. With the CMIA in Tennessee, Mr. Love facilitates work such
 as the local school’s roof repair. In Chicago, he devotes time to the NAACP,
 and helps spread information. From Tennessee to Illinois, Mr. Love also
 consistently reads to his daughters, and ensures that they are aware of current
-events. With her Women’s club, Mrs. Love protests against lynching and unequal
+events. With her women’s club, Mrs. Love protests against lynching and unequal
 voting rights. She looks for extracurricular opportunities for her daughters
 and models to them how to find joy in learning. Nellie Lee and Erma Jean learn
 from their parents, and act when they know they can help improve a situation.
