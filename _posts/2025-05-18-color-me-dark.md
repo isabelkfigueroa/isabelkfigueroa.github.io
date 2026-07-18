@@ -12,9 +12,9 @@ civic engagement of one American family. The Love family, which includes Mr.
 Freeman Love, Mrs. Olive Love, and their two daughters, Nellie Lee and Erma
 Jean, come from Tennessee. In 1919, the family makes the difficult decision to
 leave Tennessee and move to Chicago, Illinois. Like many other black families
-at that time, the Love family leaves the South and moves North in search of a
-safer environment for their family to live. In both places, however, the Love
-family encounters injustice. They know that specific changes can make their
+at that time, the Love family leaves the South in search of a
+safer environment for their family to live. The Love
+family encounters injustice in both the North and the South, however. Wherever they are, Mr. and Mrs. Love know that specific changes can make their
 country a better place for everyone, and they commit to its improvement. In
 Tennessee, Mr. Love initiates a Colored Men’s Improvement Association (CMIA)
 that makes real contributions to their community. In Chicago, he continues his
@@ -47,15 +47,11 @@ conference in Cleveland. Daddy has been selected to attend the conference and
 to even make a speech about how difficult it is to be a member of the NAACP in
 the South” (p. 100). Upon his return from a meeting, Mr. Love happily tells his
 family that he plans to travel to attend the larger, yearly meeting of the
-NAACP. Furthermore, he plans to speak about his experience as a black man in
-Tennessee. In Chicago, like in Tennessee, Mr. Love takes on responsibilities
-for his local organizations. Mr. Love’s colleagues in Chicago depend on Mr.
-Love to attend the annual NAACP conference in order to gain more information to
-bring back to them, and also to share his own firsthand knowledge so people
-around the country can better understand the conditions in the southern states.
+NAACP. In Chicago, like in Tennessee, Mr. Love takes on responsibilities
+for his local organizations. Mr. Love attends the annual NAACP conference to share with people from all over the country his experience as a black man in Tennessee. His firsthand account can help inform people about conditions in the southern states.
 Mr. Love not only participates in his community, he makes sure that his
 children at home learn to seek information and become interested in civic
-engagement. Nellie Lee writes: “The first week in every month _The_ _Crisis_
+engagement. Nellie Lee writes: “The first week in every month _The Crisis_
 comes. Daddy reads it [to us] from cover to cover and then again so as not to
 miss one comma or question mark. I love the articles, poems, stories, and all
 about what Colored people are doing, and what the NAACP is doing to make things
@@ -100,9 +96,9 @@ she stayed the entire time” (pp. 93-94). Mrs. Love takes her daughters to the
 youth center for a Saturday lecture, where she enjoys the topic so much that she
 stays for the whole event. Through Reverend McDonald, Mrs. Love helps expose
 her young daughters to the work of Dr. W.E.B. Du Bois, a leader in the fight
-for civil rights in the United States. Olive models to her daughters how to
+for civil rights in the United States. Mrs. Love models to her daughters how to
 seek out educational opportunities in the community, and how to find joy in
-learning outside of school. Mrs. Love fights back against lynching, shows her
+learning outside of school. Olive Love fights back against lynching, shows her
 support for universal suffrage, and introduces her daughters to places of
 learning in their community.
 
