@@ -7,7 +7,7 @@ image: dear-america.jpg
 ---
 
 Kathryn Lasky’s 1996 historical novel, _The Diary of Remember Patience Whipple:
-A Journey to the New World_, tells the story of a young English girl’s adventure
+A Journey to the New World_, tells the story of a young English girl’s journey
 from Europe to North America. The diary begins in October of 1620, with
 twelve-year-old Remember Patience Whipple aboard the ship, the _Mayflower_.
 Remember’s family, as well as others on board, define themselves by their
