@@ -9,7 +9,7 @@ image: harry-potter-2.jpg
 
 In J.K. Rowling’s _Harry Potter and the Chamber of Secrets_ (1998), Harry Potter
 learns that antagonism towards Muggles, (non-magic people), emerges in multiple
-contexts. Harry learns that adults throughout the history of the wizarding world support the marginalization of Muggles. Wizards from Salazar Slytherin, to Lord Voldemort, to Lucius Malfoy, support anti-muggle views and create the discriminatory foundation that continues to affect the present wizarding world. Harry sees how a classmate his own age reproduces the historic hatred. Draco Malfoy repeatedly verbalizes his contempt for Harry's friend Hermione Granger, simply because of her Muggle parents. Draco uses slurs and threats against Hermione in public, and hopes for her death in private. Harry discovers that anti-muggle sentiments are so pervasive in wizarding culture, that some people don't even realize when they say something derogatory towards an entire group. Ron for example, inadvertently insults all Squibs (non-magical people that come from magical families) and Hagrid unintentionally curses Muggles in general, when he really just wants to express his disapproval of Vernon, Petunia, and Dudley Dursley. Hagrid also condemns the "blad blood" of the Malfoy family. Hagrid must learn that he cannot make generalizations about Muggles or wizards. Harry gains a clear picture of the hate for Muggles in the wizarding world because he learns about different aspects such as the history, present harm and pervasiveness of anti-muggle attitudes.
+contexts within the Hogwarts community. Harry learns that adults throughout the school's history promote the marginalization of Muggles. Wizards from Salazar Slytherin, to Lord Voldemort, to Lucius Malfoy, support anti-muggle views and contribute to the discriminatory foundation that affects the present school culture. Harry also sees how a classmate his own age continues to reproduce the historic hatred. Draco Malfoy repeatedly verbalizes his contempt for Harry's friend, Hermione Granger, simply because her parents are Muggles. Draco uses slurs and threats against Hermione in public, and hopes for her death in private. Harry discovers that anti-muggle sentiments are so pervasive at Hogwarts, that some people don't even realize when they say something derogatory towards an entire group. Ron, for example, inadvertently insults all Squibs, (non-magical people that come from magical families), when he only dislikes Mr. Filch, and Hagrid unintentionally curses Muggles in general, when he really just wants to express his disapproval of Vernon, Petunia, and Dudley Dursley. Hagrid also condemns the "blad blood" of the entire Malfoy family. Hagrid must learn that he cannot make generalizations about Muggles or wizards. Harry gains a clear picture of the hate for Muggles at Hogwarts because he learns about different aspects such as the history, present harm and pervasiveness of anti-muggle attitudes.
 
 # Anti-Muggle History at Hogwarts
 
@@ -17,7 +17,7 @@ Anti-Muggle sentiments are nothing new at Hogwarts. Professor Binns explains to
 Harry the long history of discrimination against Muggles at the school. Around
 one thousand years ago, Professor Binns discloses: "Slytherin wished to be more _selective_ about the students admitted to
 Hogwarts. He believed that magical learning should be kept within all-magic
-families...The story goes that Slytherin had built a hidden chamber in the
+families. He disliked taking students of Muggle parentage...The story goes that Slytherin had built a hidden chamber in the
 castle...the heir alone would be able to unseal the Chamber of Secrets,
 unleash the horror within, and use it to purge the school of all who were
 unworthy to study magic" (p. 159). Salazar Slytherin, one of the four founders of Hogwarts, weaves discrimination
@@ -25,7 +25,7 @@ against Muggles into the school’s foundation when he creates the Chamber of
 Secrets. He sets a precedent for the value of all-magic families above
 others. Slytherin’s magic - the
 promise that only his heir can exploit the Chamber of Secrets - tries to
-convince people of the importance of lineage. Centuries later, Lord Voldemort
+convince people of the importance of lineage. Centuries later, former Hogwarts student, Lord Voldemort,
 resents Muggles so much that he changes his name in an endeavor to erase his
 Muggle father. Voldemort confesses to Harry, “You think I was going to use my
 filthy Muggle father’s name for ever? I, in whose veins runs the blood of
@@ -43,8 +43,7 @@ and Lucius Malfoy, support the hatred of Muggles and the supremacy of all-magic 
 
 # Discrimination Against Hermione
 
-At school, Harry witnesses anti-Muggle discrimination against his friend
-Hermione Granger. Although Hermione is a witch, Draco Malfoy criticizes Hermione
+At school, Harry witnesses Draco Malfoy's anti-Muggle discrimination against Hermione Granger. Although Hermione is a witch, Draco Malfoy criticizes Hermione
 because her parents are Muggles. Before a group of
 students, Draco says to Hermione, “No one asked your opinion, you filthy little
 Mudblood” (p. 117). Draco claims that no one wants to hear what Hermione says,
@@ -99,8 +98,8 @@ wrong with anyone born into that family. Hagrid claims the family has “Bad
 blood,” which problematically reinforces the idea that ancestry dictates the quality of the
 individual. Several times, Ron and Hagrid associate the actions of individuals with larger groups of people, when in reality, individuals do not reflect entire groups.
 
-During Harry’s second year at Hogwarts, Harry discovers the prevalence of anti-Muggle
-discrimination at the school. He learns that anti-muggle sentiments date back to the beginning of the school, with Salazar Slytherin's desire to violently eliminate people from Hogwarts that do not fit within his narrow definition of worthy. Hundreds of years later, the most powerful wizard in the school's history, Lord Voldemort, reinforces Slytherin's anti-muggle views. In the present day, Harry learns that the father of one of his classmates continues to harbor the same hierarchical thinking as Slytherin and Voldemort. Harry sees how the anti-muggle hatred of previous generations continues to manifest between current students at Hogwarts. Harry's classmate Draco Malfoy calls Hermione Granger derogatory names, threatens her, and tells his friends that he hopes for her murder. While Draco Malfoy's problematic language is obvious and intentionally harmful, Harry also hears comments that his friends make that are more subtle and unintentionally harmful. At various points, Ron and Hagrid wrongly disparage larger groups of people when they simply do not like the behavior of specific individuals. Ron attributes Mr. Filch's hatefulness to his status as a Squib when not all Squibs are like Mr. Filch. Similarly, Hagrid seems to forget that not all Muggles are like the Dursleys. Hagrid says, "Ruddy Muggles," when he really means to curse Vernon, Petunia, and Dudley Dursley. Hagrid also claims that the Malfoys have "Bad blood," when other people use the exact same sweeping myths about bloodline to discredit Hermione. .
+During Harry’s second year at Hogwarts, Harry discovers the true nature of anti-Muggle
+discrimination at the school. He learns that anti-muggle sentiments date back to the beginning of the school, with Salazar Slytherin's desire to violently eliminate people from Hogwarts that do not fit within his narrow definition of worthy. Hundreds of years later, the most powerful wizard in the school's history, Lord Voldemort, reinforces Slytherin's anti-muggle views. In the present day, Harry learns that the father of one of his classmates continues to harbor the same hierarchical thinking as Slytherin and Voldemort. Harry sees how the anti-muggle hatred of previous generations continues to manifest between current students at Hogwarts. Harry's classmate Draco Malfoy calls Hermione Granger derogatory names, threatens her, and tells his friends that he hopes for her murder. While Draco Malfoy's problematic language is obvious and intentionally harmful, Harry also hears comments that his friends make that are more subtle and unintentionally harmful. At various points, Ron and Hagrid wrongly disparage larger groups of people when they simply do not like the behavior of specific individuals. Ron attributes Mr. Filch's hatefulness to his status as a Squib when not all Squibs are like Mr. Filch. Similarly, Hagrid seems to forget that not all Muggles are like the Dursleys; Hagrid says, "Ruddy Muggles," when he really means to curse Vernon, Petunia, and Dudley Dursley. Hagrid also claims that the Malfoys have "Bad blood," when other people use the exact same sweeping myths about bloodline to discredit Muggles and Muggle-born wizards or witches like Hermione. As Harry begins to gain a deeper understanding of a great injustice that exist at his school, he must learn to identify and combat the injustice as it appears.
 
 ---
 References
